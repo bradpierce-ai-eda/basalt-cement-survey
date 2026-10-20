@@ -1,0 +1,25 @@
+{
+  "limitations": [
+    "Classic BibTeX misc maps patents, standards, reports, theses, datasets and webpages to document. Exact source type and full identifying source note remain preserved; CSL is the richer typed representation.",
+    "RIS GEN represents standards/datasets. Patent identifiers are repeated in parsed source notes because Citation.js ignores M1 in its mixed parser.",
+    "CSL preserves all 18 independently checked fixture fields. Some BibTeX/RIS custom fields are carried in complete source notes rather than native fields, including applicant roles, project periods and date qualifiers."
+  ],
+  "unresolved": {
+    "composite_slots": [
+      43,
+      76
+    ],
+    "secondary_witness_slot": 98,
+    "unresolved_witness_fields": [
+      "f170_ref_098_witness.title",
+      "f170_ref_098_witness.author"
+    ],
+    "incomplete_author_list": [
+      "f170_ref_098"
+    ],
+    "source_author_order_exception": [
+      19
+    ],
+    "description": "Exact formal slot strings remain independently recoverable. The unidentified witness remains a supporting unresolved object, not an invented bibliographic work or the URL of the 2013 work."
+  }
+}

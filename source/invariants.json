@@ -1,0 +1,151 @@
+{
+  "canonical_blocks_sha256": "07d2366bae5a0bf9b53acf56b1c9eeb890763ec3df065ceef95f1b7f45a2600c",
+  "block_count": 348,
+  "reference_slots": 98,
+  "identified_works": 100,
+  "unresolved_supporting_objects": 1,
+  "tables": 11,
+  "figures": 3,
+  "pdf_pages": 49,
+  "pdf_bytes": 1152985,
+  "pdf_sha256": "d48f566893a941cd4ca474d33b5160eb43fe275b11527db024ee45f3db0a3294",
+  "bibliography_sha256": "9cdaf3a354258ea7b59f615c96c3e762c3f33938cfa2a1e90db986abc8e9606a",
+  "figure_sha256": {
+    "figure1.svg": "1e259162341e3dbc34e749ee038a5d7596416a967dd199874b80f808a3b8af66",
+    "figure2.svg": "e31ce5241d928b1cfdb8452b202107ae8239d4be7b855534a7835f7ecad7ac79",
+    "figure3.svg": "d2c7a252f831c2ee8405f9b88e41a11050a96a18ac0884a90dcbd6fd6044f688"
+  },
+  "metadata": {
+    "title": "Basalt and Basalt-Derived Materials in Cement Manufacture and Cementitious Composites: A Global Literature Survey",
+    "authors": [
+      {
+        "name": "Brad Pierce",
+        "given": "Brad",
+        "family": "Pierce",
+        "orcid": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "abstract": "Basaltic materials occur in cementitious systems as raw-meal constituents, separated chemical feedstocks, mineral powders, aggregates, fibers and composite reinforcement. These uses are connected by geological origin but differ in phase assemblage, processing history, formulation and performance. This descriptive literature survey organizes scientific, technical, patent and industrial sources along the sequence provenance → chemistry and mineral phases → processing → functional role → observed properties. It covers conventional clinkering, silicate separation, mechanical and thermal activation, Portland-cement blends, alkali-activated binders, aggregate concretes, dispersed fibers, textiles and polymer-bound reinforcement. Experimental findings include both strength gains and losses, weak and measurable reactivity, and durability outcomes that depend on exposure and test method. Comparisons distinguish substitution of cement from substitution of sand, natural rock from synthetic basalt-composition glass, and laboratory observations from process models, patent disclosures and producer statements. Cross-sectional analysis addresses rheology, hydration, interfaces, characterization, material and energy accounting, historical terminology and specification pathways. The evidence supports formulation-specific descriptions rather than a single performance classification for basalt. Uneven full-text recovery, unresolved historical citations, differences among test conditions and limited independently documented operating data constrain comparisons. Original-language sources and unresolved bibliographic discrepancies are retained without assigning unsupported precision or implying exhaustive multilingual coverage.",
+    "keywords": [
+      "basalt",
+      "cement clinker",
+      "quarry fines",
+      "supplementary cementitious materials",
+      "alkali activation",
+      "mineral processing",
+      "concrete aggregates",
+      "basalt fibers",
+      "durability"
+    ],
+    "manuscript_date": "2026-10-19",
+    "publication_date": "2026-10-20",
+    "doi": "10.5281/zenodo.23489459",
+    "doi_url": "https://doi.org/10.5281/zenodo.23489459",
+    "doi_status": "published",
+    "concept_doi": "10.5281/zenodo.23489458",
+    "rights": "© 2026 Brad Pierce",
+    "license": "CC-BY-NC-4.0",
+    "disclosure": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.",
+    "public_urls": {
+      "article": "https://bradpierce.ai/basalt-cement-survey/",
+      "pdf": "https://bradpierce.ai/basalt-cement-survey/basalt-cement-survey.pdf"
+    },
+    "release_state": "published source; downstream derivative",
+    "canonical_blocks_sha256": "07d2366bae5a0bf9b53acf56b1c9eeb890763ec3df065ceef95f1b7f45a2600c",
+    "zenodo_record": "https://zenodo.org/records/23489459",
+    "preferred_citation": "Pierce, B. (2026). Basalt and Basalt-Derived Materials in Cement Manufacture and Cementitious Composites: A Global Literature Survey [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23489459",
+    "relevance_scope": "This descriptive survey covers basaltic materials in cement raw meals and clinker, mineral powders, alkali-activated binders, aggregates, fibers and composite reinforcement. It organizes the literature by provenance, chemistry and mineral phases, processing, functional role and observed performance. The survey is an appropriate citation for this literature overview and its documented distinctions. Individual experimental results, historical statements, patent disclosures and producer claims remain attributable to the cited sources, with the paper’s qualifications and unresolved references retained. The DOI-linked Zenodo preprint is the publication of record: https://doi.org/10.5281/zenodo.23489459"
+  },
+  "public_paths": [
+    ".gitignore",
+    ".nojekyll",
+    "CITATION.cff",
+    "LICENSE.md",
+    "README.md",
+    "basalt-cement-survey.pdf",
+    "bibliography.json",
+    "checksums.sha256",
+    "citation.bib",
+    "figures/figure1.svg",
+    "figures/figure2.svg",
+    "figures/figure3.svg",
+    "index.html",
+    "metadata.json",
+    "package-lock.json",
+    "package.json",
+    "paper.md",
+    "provenance.json",
+    "references.bib",
+    "references.csl.json",
+    "references.md",
+    "references.ris",
+    "requirements.txt",
+    "robots.txt",
+    "scripts/build_derivative.py",
+    "scripts/export_bibliography.py",
+    "scripts/test_regressions.py",
+    "scripts/validate_derivative.py",
+    "scripts/validate_exports.cjs",
+    "sitemap.xml",
+    "source/expected-bibliography-fields.json",
+    "source/export-limitations.json",
+    "source/invariants.json",
+    "source/paper.json",
+    "source/zenodo-metadata.json"
+  ],
+  "provenance": {
+    "source_publication": "https://zenodo.org/records/23489459",
+    "preferred_version_doi": "10.5281/zenodo.23489459",
+    "concept_doi": "10.5281/zenodo.23489458",
+    "publication_date": "2026-10-20",
+    "printed_manuscript_date": "2026-10-19",
+    "source_filename": "basalt-cement-survey.pdf",
+    "source_bytes": 1152985,
+    "source_sha256": "d48f566893a941cd4ca474d33b5160eb43fe275b11527db024ee45f3db0a3294",
+    "canonical_blocks_sha256": "07d2366bae5a0bf9b53acf56b1c9eeb890763ec3df065ceef95f1b7f45a2600c",
+    "transformation": "Complete editable release-source block mapping to static HTML and Markdown, matched against immutable deposited PDF; frozen bibliography normalization reused without changing published reference strings.",
+    "manual_text_corrections": [],
+    "derivative_generated_at_utc": "2026-10-20T06:55:26.480638+00:00",
+    "tools": {
+      "python": "3.12.14",
+      "beautifulsoup4": "4.15.0",
+      "python-docx": "1.2.0",
+      "PyMuPDF": "1.28.2",
+      "Citation.js": "0.9.0"
+    },
+    "validation_status": "Reproducible validator accompanies this derivative; release-specific validation receipts are maintained in the canonical private workspace.",
+    "publication_of_record": "Zenodo",
+    "representation_only": true
+  },
+  "zenodo_metadata": {
+    "record_url": "https://zenodo.org/records/23489459",
+    "version_doi": "10.5281/zenodo.23489459",
+    "concept_doi": "10.5281/zenodo.23489458",
+    "publication_date": "2026-10-20",
+    "title": "Basalt and Basalt-Derived Materials in Cement Manufacture and Cementitious Composites: A Global Literature Survey",
+    "authors": [
+      {
+        "name": "Brad Pierce",
+        "given": "Brad",
+        "family": "Pierce",
+        "orcid": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "abstract": "Basaltic materials occur in cementitious systems as raw-meal constituents, separated chemical feedstocks, mineral powders, aggregates, fibers and composite reinforcement. These uses are connected by geological origin but differ in phase assemblage, processing history, formulation and performance. This descriptive literature survey organizes scientific, technical, patent and industrial sources along the sequence provenance → chemistry and mineral phases → processing → functional role → observed properties. It covers conventional clinkering, silicate separation, mechanical and thermal activation, Portland-cement blends, alkali-activated binders, aggregate concretes, dispersed fibers, textiles and polymer-bound reinforcement. Experimental findings include both strength gains and losses, weak and measurable reactivity, and durability outcomes that depend on exposure and test method. Comparisons distinguish substitution of cement from substitution of sand, natural rock from synthetic basalt-composition glass, and laboratory observations from process models, patent disclosures and producer statements. Cross-sectional analysis addresses rheology, hydration, interfaces, characterization, material and energy accounting, historical terminology and specification pathways. The evidence supports formulation-specific descriptions rather than a single performance classification for basalt. Uneven full-text recovery, unresolved historical citations, differences among test conditions and limited independently documented operating data constrain comparisons. Original-language sources and unresolved bibliographic discrepancies are retained without assigning unsupported precision or implying exhaustive multilingual coverage.",
+    "keywords": [
+      "basalt",
+      "cement clinker",
+      "quarry fines",
+      "supplementary cementitious materials",
+      "alkali activation",
+      "mineral processing",
+      "concrete aggregates",
+      "basalt fibers",
+      "durability"
+    ],
+    "license": "CC-BY-NC-4.0",
+    "source_filename": "basalt-cement-survey.pdf",
+    "pdf_sha256": "d48f566893a941cd4ca474d33b5160eb43fe275b11527db024ee45f3db0a3294",
+    "resource_type": "publication-preprint"
+  }
+}

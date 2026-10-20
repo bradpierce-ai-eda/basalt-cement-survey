@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050" viewBox="0 0 1800 1050" role="img">
+<title>Material history connects chemistry to performance</title><desc>Four linked stages connect provenance (quarry or facies, dense or vesicular, altered or fresh), phases (crystals and glass, element inventory, surface chemistry), processing (crushing or grinding, melting or quenching, leaching or separation) and formulation (cement or sand, reactive precursor, aggregate or fiber). Intermediate observations of dissolution, packing, water demand, air and interfaces connect to measured flow, setting, strength, transport, chemical resistance, cracking and retained capacity. Arrows express conceptual organization, not universal causal magnitudes.</desc>
+<rect width="1800" height="1050" fill="white"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#50717d"/></marker></defs>
+<text x="70" y="82" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#172f3c">Material history connects chemistry to performance</text>
+<rect x="70" y="150" width="380" height="300" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="92" y="197" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PROVENANCE</text>
+<text x="92" y="245" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Quarry / facies</text>
+<text x="92" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Dense or vesicular</text>
+<text x="92" y="325" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Altered or fresh</text>
+<line x1="450" y1="300" x2="490" y2="300" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="500" y="150" width="380" height="300" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="522" y="197" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PHASES</text>
+<text x="522" y="245" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Crystals and glass</text>
+<text x="522" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Element inventory</text>
+<text x="522" y="325" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Surface chemistry</text>
+<line x1="880" y1="300" x2="920" y2="300" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="930" y="150" width="380" height="300" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="952" y="197" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PROCESSING</text>
+<text x="952" y="245" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Crush / grind</text>
+<text x="952" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Melt / quench</text>
+<text x="952" y="325" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Leach / separate</text>
+<line x1="1310" y1="300" x2="1350" y2="300" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="1360" y="150" width="380" height="300" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="1382" y="197" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">FORMULATION</text>
+<text x="1382" y="245" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Cement or sand</text>
+<text x="1382" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Reactive precursor</text>
+<text x="1382" y="325" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Aggregate or fiber</text>
+<rect x="70" y="530" width="790" height="350" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="92" y="577" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">INTERMEDIATE OBSERVATIONS</text>
+<text x="92" y="625" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Dissolution and hydrate formation</text>
+<text x="92" y="665" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Packing, water demand and air</text>
+<text x="92" y="705" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Interfaces, dispersion and bond</text>
+<rect x="960" y="530" width="770" height="350" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="982" y="577" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">MEASURED ENDPOINTS</text>
+<text x="982" y="625" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Flow / setting / strength</text>
+<text x="982" y="665" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Transport and chemical resistance</text>
+<text x="982" y="705" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Cracking and retained capacity</text>
+<line x1="865" y1="700" x2="950" y2="700" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="70" y="990" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#172f3c">Conceptual organization; arrows do not assert a universal causal magnitude.</text>
+</svg>

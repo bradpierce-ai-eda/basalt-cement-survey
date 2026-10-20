@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1050" viewBox="0 0 1800 1050" role="img">
+<title>Three distinct routes to clinker-related products</title><desc>Three input-process-output routes are distinguished. Raw-meal substitution combines basalt, limestone and corrective feeds, balances the raw meal, fires and cools it, and produces clinker then cement. Residue incorporation uses quarry fines or vesicular basalt with adjusted feeds and the same firing route. Calcium separation uses calcium-bearing silicate, reagents and water through leaching, purification, precipitation and regeneration to produce calcium-rich feed and other streams. These require separate balances.</desc>
+<rect width="1800" height="1050" fill="white"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#50717d"/></marker></defs>
+<text x="70" y="82" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#172f3c">Three distinct routes to clinker-related products</text>
+<text x="70" y="169" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172f3c">RAW-MEAL SUBSTITUTION</text>
+<rect x="70" y="188" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="92" y="235" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">INPUT</text>
+<text x="92" y="283" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Basalt + limestone</text>
+<text x="92" y="323" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">+ corrective feeds</text>
+<line x1="580" y1="285" x2="620" y2="285" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="635" y="188" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="657" y="235" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PROCESS</text>
+<text x="657" y="283" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Balance raw meal</text>
+<text x="657" y="323" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Fire and cool</text>
+<line x1="1145" y1="285" x2="1185" y2="285" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="1200" y="188" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="1222" y="235" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">OUTPUT</text>
+<text x="1222" y="283" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Clinker</text>
+<text x="1222" y="323" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Then cement</text>
+<text x="70" y="439" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172f3c">RESIDUE INCORPORATION</text>
+<rect x="70" y="458" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="92" y="505" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">INPUT</text>
+<text x="92" y="553" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Quarry fines or</text>
+<text x="92" y="593" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">vesicular basalt</text>
+<line x1="580" y1="555" x2="620" y2="555" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="635" y="458" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="657" y="505" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PROCESS</text>
+<text x="657" y="553" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Adjust other feeds</text>
+<text x="657" y="593" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Fire and cool</text>
+<line x1="1145" y1="555" x2="1185" y2="555" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="1200" y="458" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="1222" y="505" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">OUTPUT</text>
+<text x="1222" y="553" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Clinker</text>
+<text x="1222" y="593" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Then cement</text>
+<text x="70" y="709" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#172f3c">CALCIUM SEPARATION</text>
+<rect x="70" y="728" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="92" y="775" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">INPUT</text>
+<text x="92" y="823" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Ca-bearing silicate</text>
+<text x="92" y="863" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">+ reagents + water</text>
+<line x1="580" y1="825" x2="620" y2="825" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="635" y="728" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="657" y="775" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">PROCESS</text>
+<text x="657" y="823" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Leach / purify /</text>
+<text x="657" y="863" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">precipitate / regenerate</text>
+<line x1="1145" y1="825" x2="1185" y2="825" stroke="#50717d" stroke-width="5" marker-end="url(#arrow)"/>
+<rect x="1200" y="728" width="510" height="190" rx="14" fill="#edf3f5" stroke="#50717d" stroke-width="3"/>
+<text x="1222" y="775" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#172f3c">OUTPUT</text>
+<text x="1222" y="823" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">Calcium-rich feed</text>
+<text x="1222" y="863" font-family="Arial, sans-serif" font-size="29" font-weight="400" fill="#172f3c">+ other streams</text>
+<text x="70" y="1020" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#172f3c">Separate balances: untreated rock in raw meal is not separated calcium.</text>
+</svg>
