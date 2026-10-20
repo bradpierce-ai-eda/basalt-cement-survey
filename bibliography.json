@@ -1,0 +1,4024 @@
+{
+  "slots": [
+    {
+      "number": 1,
+      "exact_reference": "[1] Scheinherrová, L.; Keppert, M.; Černý, R. (2022). Chemical aspects of the application of basalt in cement composites. Construction and Building Materials 350, 128873. DOI: 10.1016/j.conbuildmat.2022.128873",
+      "work_ids": [
+        "f170_ref_001"
+      ]
+    },
+    {
+      "number": 2,
+      "exact_reference": "[2] Almeida, M. P. B.; Gomes, L. da S. S.; Silva, A. R.; Tamashiro, J. R.; Paiva, F. F. G.; Silva, L. H. P.; Kinoshita, A. (2025). Basalt Rock Powder in Cementitious Materials: A Systematic Review. Resources 14(6), 86. DOI: 10.3390/resources14060086",
+      "work_ids": [
+        "f170_ref_002"
+      ]
+    },
+    {
+      "number": 3,
+      "exact_reference": "[3] Korkanç, M.; Tuğrul, A. (2004). Evaluation of selected basalts from Niğde, Turkey, as source of concrete aggregate. Engineering Geology 75, 291–307. DOI: 10.1016/j.enggeo.2004.06.015",
+      "work_ids": [
+        "f170_ref_003"
+      ]
+    },
+    {
+      "number": 4,
+      "exact_reference": "[4] Korkanç, M.; Tuğrul, A. (2005). Evaluation of selected basalts from the point of alkali–silica reactivity. Cement and Concrete Research 35(3), 505–512. DOI: 10.1016/j.cemconres.2004.06.013",
+      "work_ids": [
+        "f170_ref_004"
+      ]
+    },
+    {
+      "number": 5,
+      "exact_reference": "[5] Toscan, L.; Kautzmann, R. M.; Sabedot, S. (2007). O rejeito da mineração de basalto no nordeste do Estado do Rio Grande do Sul: diagnóstico do problema [Basalt-mining residues in northeastern Rio Grande do Sul: diagnosis]. REM: Revista Escola de Minas 60(4), 657–662. DOI: 10.1590/S0370-44672007000400011",
+      "work_ids": [
+        "f170_ref_005"
+      ]
+    },
+    {
+      "number": 6,
+      "exact_reference": "[6] Yu, L.; Zhou, S.; Dong, J. (2020). Investigation into Pozzolanic Activity Component of Basalt and Pumice. Journal of Materials in Civil Engineering 32(6), 04020135. DOI: 10.1061/(ASCE)MT.1943-5533.0003180",
+      "work_ids": [
+        "f170_ref_006"
+      ]
+    },
+    {
+      "number": 7,
+      "exact_reference": "[7] Li, J.; Che, D.; Liu, Z.; Yu, L.; Ouyang, X. (2022). Effect of Basalt Powder on Hydration, Rheology, and Strength Development of Cement Paste. Materials 15(23), 8632. DOI: 10.3390/ma15238632",
+      "work_ids": [
+        "f170_ref_007"
+      ]
+    },
+    {
+      "number": 8,
+      "exact_reference": "[8] Wang, Y.; Suraneni, P. (2023). Thermal activation of inert basaltic materials to create supplementary cementitious materials. CEMENT 13, 100082. DOI: 10.1016/j.cement.2023.100082",
+      "work_ids": [
+        "f170_ref_008"
+      ]
+    },
+    {
+      "number": 9,
+      "exact_reference": "[9] Alzeer, M. I. M.; Cheeseman, C.; Kinnunen, P. (2022). New synthetic glass-based supplementary cementitious materials derived from basalt composition. Journal of Building Engineering 46, 103699. DOI: 10.1016/j.jobe.2021.103699",
+      "work_ids": [
+        "f170_ref_009"
+      ]
+    },
+    {
+      "number": 10,
+      "exact_reference": "[10] Amroun, S.; Galli, L.; Tahlaiti, M.; Suraneni, P. (2025). Mechanochemical activation of basaltic fines. Cement and Concrete Research 195, 107923. DOI: 10.1016/j.cemconres.2025.107923",
+      "work_ids": [
+        "f170_ref_010"
+      ]
+    },
+    {
+      "number": 11,
+      "exact_reference": "[11] 刘来宝; 唐凯靖; 赵冬梅; 许晓英; 王燕 (inventors) (2012; priority 19 October 2011). 一种用作水泥混合材的活化玄武岩粉及其制备方法 [Activated basalt powder for cement blending and its preparation]. CN102503191A, published 20 June 2012. Southwest University of Science and Technology. Patent disclosure. https://patents.google.com/patent/CN102503191A/zh",
+      "work_ids": [
+        "f170_ref_011"
+      ]
+    },
+    {
+      "number": 12,
+      "exact_reference": "[12] Худякова, Л. И.; Константинова, К. К.; Нархинова, Б. Л.; Беппле, Р. Р.; Шаракшинов, А. О. (inventors) (2003). Безобжиговое вяжущее [Unfired binder]. RU2212383C2, published 20 September 2003. Patent disclosure. https://patents.google.com/patent/RU2212383C2/ru",
+      "work_ids": [
+        "f170_ref_012"
+      ]
+    },
+    {
+      "number": 13,
+      "exact_reference": "[13] Ke, G.; Shen, H.; Yang, P. (2019). Synthesis of X-Zeolite from Waste Basalt Powder and its Influencing Factors and Synthesis Mechanism. Materials 12(23), 3895. DOI: 10.3390/ma12233895",
+      "work_ids": [
+        "f170_ref_013"
+      ]
+    },
+    {
+      "number": 14,
+      "exact_reference": "[14] Smith, J.; Hollingham, M.; Gevaudan, J. P. (2026). Optimization of mechanochemical activation of basalt fines in aqueous environments for CO2 mineralization and pozzolanic reactivity: discovery of a Pareto optimal front. Journal of Sustainable Cement-Based Materials. Published online 9 July 2026. DOI: 10.1080/21650373.2026.2690475",
+      "work_ids": [
+        "f170_ref_014"
+      ]
+    },
+    {
+      "number": 15,
+      "exact_reference": "[15] Hassaan, M. Y. (2001). Basalt rock as an alternative raw material in Portland cement manufacture. Materials Letters 50(2–3), 172–178. DOI: 10.1016/S0167-577X(01)00220-8",
+      "work_ids": [
+        "f170_ref_015"
+      ]
+    },
+    {
+      "number": 16,
+      "exact_reference": "[16] Andrade, F. R. D.; Pecchio, M.; Bendoraitis, D. P.; Montanheiro, T. J.; Kihara, Y. (2010). Rejeitos da mineração de basalto como matérias-primas para clínquer Portland [Basalt mine-tailings as raw materials for Portland clinker]. Cerâmica 56(337), 39–43. DOI: 10.1590/S0366-69132010000100007",
+      "work_ids": [
+        "f170_ref_016"
+      ]
+    },
+    {
+      "number": 17,
+      "exact_reference": "[17] Finke, C. E.; Leandri, H. F. (inventors) (2023; family priority 13 August 2019). Process to make calcium oxide or ordinary Portland cement from calcium bearing rocks and minerals. US11718558B2, published 8 August 2023. California Institute of Technology / Brimstone Energy. Continuation of US16/992,318; paired application publication US20220411328A1. Patent disclosure. https://patents.google.com/patent/US11718558B2/en",
+      "work_ids": [
+        "f170_ref_017"
+      ]
+    },
+    {
+      "number": 18,
+      "exact_reference": "[18] Prancevic, J. P.; Finke, C. E.; Peterson, E.; Nguyen, W.; Clarens, A. F.; Pyatina, T. (2026). Silicate-derived calcium as a pathway to low-carbon Portland cement. Communications Sustainability 1, 78. DOI: 10.1038/s44458-026-00056-4",
+      "work_ids": [
+        "f170_ref_018"
+      ]
+    },
+    {
+      "number": 19,
+      "exact_reference": "[19] Liu, L.; Zhang, Y.; Zhang, W.; Liu, Z.; Zhang, L. (2013). Investigating the influence of basalt as mineral admixture on hydration and microstructure formation mechanism of cement. Construction and Building Materials 48, 434–440. DOI: 10.1016/j.conbuildmat.2013.07.021",
+      "work_ids": [
+        "f170_ref_019"
+      ]
+    },
+    {
+      "number": 20,
+      "exact_reference": "[20] Akyüncü, V.; Cihan, M. T. (2019). Bazalt tozu katkılı harçların mekanik ve geçirimlilik özeliklerinin araştırılması [Mechanical and permeability properties of basalt-powder mortars]. Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi 21(2), 697–707. DOI: 10.25092/baunfbed.636998",
+      "work_ids": [
+        "f170_ref_020"
+      ]
+    },
+    {
+      "number": 21,
+      "exact_reference": "[21] Dobiszewska, M.; Beycioğlu, A. (2017). Investigating the Influence of Waste Basalt Powder on Selected Properties of Cement Paste and Mortar. IOP Conference Series: Materials Science and Engineering 245, 022027. DOI: 10.1088/1757-899X/245/2/022027",
+      "work_ids": [
+        "f170_ref_021"
+      ]
+    },
+    {
+      "number": 22,
+      "exact_reference": "[22] Meinhart, A. H.; Macedo, R. B.; Guterres, T. T.; Arnold, D. C. M. (2023). Análise do potencial de uso do fíler basáltico como substituição parcial do cimento Portland [Potential use of basaltic filler as partial Portland-cement replacement]. Ambiente Construído 23(4), 169–186. DOI: 10.1590/s1678-86212023000400697",
+      "work_ids": [
+        "f170_ref_022"
+      ]
+    },
+    {
+      "number": 23,
+      "exact_reference": "[23] Dobiszewska, M.; Beycioğlu, A. (2020). Physical Properties and Microstructure of Concrete with Waste Basalt Powder Addition. Materials 13(16), 3503. DOI: 10.3390/ma13163503",
+      "work_ids": [
+        "f170_ref_023"
+      ]
+    },
+    {
+      "number": 24,
+      "exact_reference": "[24] Dobiszewska, M. (2016). Zastosowanie pyłu bazaltowego, jako substytutu piasku w zaprawie i betonie cementowym [Basalt dust as a sand substitute in mortar and concrete]. Budownictwo i Architektura 15(4), 75–85. DOI: 10.24358/Bud-Arch_16_154_08",
+      "work_ids": [
+        "f170_ref_024"
+      ]
+    },
+    {
+      "number": 25,
+      "exact_reference": "[25] Ponzi, G. G. D.; Santos, V. H. J. M. dos; Martel, R. B.; Pontin, D.; Stepanha, A. S. de G. e; Schütz, M. K.; Menezes, S. C.; Einloft, S. M. O.; Dalla Vecchia, F. (2021). Basalt powder as a supplementary cementitious material in cement paste for CCS wells: chemical and mechanical resistance of cement formulations for CO2 geological storage sites. International Journal of Greenhouse Gas Control 109, 103337. DOI: 10.1016/j.ijggc.2021.103337",
+      "work_ids": [
+        "f170_ref_025"
+      ]
+    },
+    {
+      "number": 26,
+      "exact_reference": "[26] Alzeer, M. I. M.; Nguyen, H.; Cheeseman, C.; Kinnunen, P. (2021). Alkali-Activation of Synthetic Aluminosilicate Glass With Basaltic Composition. Frontiers in Chemistry 9, 715052. DOI: 10.3389/fchem.2021.715052",
+      "work_ids": [
+        "f170_ref_026"
+      ]
+    },
+    {
+      "number": 27,
+      "exact_reference": "[27] Rashad, A. M.; El-Nashar, M. H.; Hussien, O. F.; Mohamed, R. A.-E. (2025). Egyptian basalt powder as a fortifier for improved performance and sustainability of alkali-activated slag cement. Scientific Reports 15, 37946. DOI: 10.1038/s41598-025-19434-4",
+      "work_ids": [
+        "f170_ref_027"
+      ]
+    },
+    {
+      "number": 28,
+      "exact_reference": "[28] Tammam, Y.; Uysal, M.; Canpolat, O. (2022; online 2021). Effects of alternative ecological fillers on the mechanical, durability, and microstructure of fly ash-based geopolymer mortar. European Journal of Environmental and Civil Engineering 26(12), 5877–5900. DOI: 10.1080/19648189.2021.1925157",
+      "work_ids": [
+        "f170_ref_028"
+      ]
+    },
+    {
+      "number": 29,
+      "exact_reference": "[29] Tammam, Y.; Uysal, M.; Canpolat, O.; Kuranlı, Ö. F. (2023; online 2022). Effect of Waste Filler Materials and Recycled Waste Aggregates on the Production of Geopolymer Composites. Arabian Journal for Science and Engineering 48, 4823–4840. DOI: 10.1007/s13369-022-07230-5",
+      "work_ids": [
+        "f170_ref_029"
+      ]
+    },
+    {
+      "number": 30,
+      "exact_reference": "[30] Zhou, H.; Jia, B.; Huang, H.; Mou, Y. (2020). Experimental Study on Basic Mechanical Properties of Basalt Fiber Reinforced Concrete. Materials 13(6), 1362. DOI: 10.3390/ma13061362",
+      "work_ids": [
+        "f170_ref_030"
+      ]
+    },
+    {
+      "number": 31,
+      "exact_reference": "[31] Scheffler, C.; Förster, T.; Mäder, E.; Heinrich, G.; Hempel, S.; Mechtcherine, V. (2009). Aging of alkali-resistant glass and basalt fibers in alkaline solutions: Evaluation of the failure stress by Weibull distribution function. Journal of Non-Crystalline Solids 355, 2588–2595. DOI: 10.1016/j.jnoncrysol.2009.09.018",
+      "work_ids": [
+        "f170_ref_031"
+      ]
+    },
+    {
+      "number": 32,
+      "exact_reference": "[32] Wang, Q.; Ding, Y.; Randl, N. (2021). Investigation on the alkali resistance of basalt fiber and its textile in different alkaline environments. Construction and Building Materials 272, 121670. DOI: 10.1016/j.conbuildmat.2020.121670",
+      "work_ids": [
+        "f170_ref_032"
+      ]
+    },
+    {
+      "number": 33,
+      "exact_reference": "[33] Li, L. G.; Ng, P.-L.; Zeng, K.-L.; Xie, H.-Z.; Cheng, C.-M.; Kwan, A. K.-H. (2023). Experimental Study and Modelling of Fresh Behaviours of Basalt Fibre-Reinforced Mortar Based on Average Water Film Thickness and Fibre Factor. Materials 16(6), 2137. DOI: 10.3390/ma16062137",
+      "work_ids": [
+        "f170_ref_033"
+      ]
+    },
+    {
+      "number": 34,
+      "exact_reference": "[34] 井田宥文; Amr Meawad; 栗原諒; 丸山一平 (2025). 1000℃以上の高温条件下における骨材およびモルタルの溶解挙動の基礎的検討 [Fundamental study of aggregate and mortar melting above 1000 °C]. セメント・コンクリート論文集 78(1), 571–578. DOI: 10.14250/cement.78.571 Volume designation 2024; J-STAGE release 31 March 2025.",
+      "work_ids": [
+        "f170_ref_034"
+      ]
+    },
+    {
+      "number": 35,
+      "exact_reference": "[35] Tiegoum Wembe, J. (2023). Étude expérimentale et numérique du comportement à haute température du béton de granulat de gneiss et basalte [Experimental and numerical high-temperature behavior of gneiss- and basalt-aggregate concrete]. Doctoral thesis, CY Cergy Paris Université / Université de Yaoundé I. NNT 2023CYUN1167; defended 2 March 2023. https://theses.fr/2023CYUN1167 Original full-thesis record: https://theses.hal.science/tel-04314216",
+      "work_ids": [
+        "f170_ref_035"
+      ]
+    },
+    {
+      "number": 36,
+      "exact_reference": "[36] 西野義則; 辰巳泰我; 倉敷哲生; 田村進一 (Nishino, Y.; Tatsumi, T.; Kurashiki, T.; Tamura, S.) (2025). 玄武岩繊維強化コンクリートの強度評価（テストピース製作方法と強度試験方法） [Strength evaluation of basalt fiber reinforced concrete (Test Piece Fabrication Method and Strength Test Method)]. GPI Journal 11(1), 10–13. DOI: 10.24570/gpijournal.11.1_10",
+      "work_ids": [
+        "f170_ref_036"
+      ]
+    },
+    {
+      "number": 37,
+      "exact_reference": "[37] Nanni, A.; Arduini, M.; Bruschi, F.; Balconi, G. (inventors) (2019; priority 23 February 2018). Trefolo composito in fibre di vetro e/o basalto per cemento precompresso [Composite glass/basalt strand for prestressed concrete]. IT201800002988A1. Patent disclosure; related WO2019162390 and EP3755525 grouped as one lineage. https://patents.google.com/patent/IT201800002988A1/it",
+      "work_ids": [
+        "f170_ref_037"
+      ]
+    },
+    {
+      "number": 38,
+      "exact_reference": "[38] Mateu Serraviñals, I. (inventor) (2015; priority 21 May 2014). Hormigón reforzado [Reinforced concrete]. ES2551762A1, published 23 November 2015. Patent disclosure. https://patents.google.com/patent/ES2551762A1/es",
+      "work_ids": [
+        "f170_ref_038"
+      ]
+    },
+    {
+      "number": 39,
+      "exact_reference": "[39] 오인하; 홍종현 (inventors) (2007). 폐 석재를 이용한 콘크리트 보도블록 및 그 제조방법 [Concrete paving blocks using waste stone and their manufacture]. KR100754910B1, published 3 September 2007; filed 10 October 2006. Patent disclosure. https://patents.google.com/patent/KR100754910B1/ko",
+      "work_ids": [
+        "f170_ref_039"
+      ]
+    },
+    {
+      "number": 40,
+      "exact_reference": "[40] Horn, H. (inventor) (2002). Stoffmischung zur Herstellung von Leichtbeton [Mixture for producing lightweight concrete]. DE10111016A1, published 26 September 2002. Patent disclosure. https://patents.google.com/patent/DE10111016A1/de",
+      "work_ids": [
+        "f170_ref_040"
+      ]
+    },
+    {
+      "number": 41,
+      "exact_reference": "[41] Краснов, А. М. [Anatoliy Mitrofanovich Krasnov] (inventor) (1982; filed 28 March 1980). Бетонная смесь [Concrete mix]. SU897745A1, published 15 January 1982; description bears 17 January 1982. Patent disclosure. https://patents.google.com/patent/SU897745A1/ru",
+      "work_ids": [
+        "f170_ref_041"
+      ]
+    },
+    {
+      "number": 42,
+      "exact_reference": "[42] 陶文达; 马维学; 唐维府; 刘方敏 (inventors) (1994). 掺活性混合材料水泥的生产方法 [Production of cement with active blending materials]. CN1092391A, published 21 September 1994. Baita Cement Works of Lianyungang City. Patent disclosure. https://patents.google.com/patent/CN1092391A/zh",
+      "work_ids": [
+        "f170_ref_042"
+      ]
+    },
+    {
+      "number": 43,
+      "exact_reference": "[43] 谭云松; 张凡 (inventors) (2015/2016). 一种掺合料及其制备方法及由其制备的混凝土 [Admixture, preparation method and concrete made from it] / 一种掺合料及由其制备的混凝土 [Admixture and concrete made from it]. CN104844111A (19 August 2015) / CN104844111B (24 August 2016). One patent family. https://patents.google.com/patent/CN104844111B/zh",
+      "work_ids": [
+        "f170_ref_043",
+        "f170_ref_043_b"
+      ]
+    },
+    {
+      "number": 44,
+      "exact_reference": "[44] Eckel, E. C. (1905). Cement materials and industry of the United States. U.S. Geological Survey Bulletin 243. DOI: 10.3133/b243",
+      "work_ids": [
+        "f170_ref_044"
+      ]
+    },
+    {
+      "number": 45,
+      "exact_reference": "[45] Kansas Geological Survey (1928). Volcanic Ash Resources of Kansas, Bulletin 14: county distribution, technology and uses. https://www.kgs.ku.edu/Publications/Bulletins/14/02_counties.html",
+      "work_ids": [
+        "f170_ref_045"
+      ]
+    },
+    {
+      "number": 46,
+      "exact_reference": "[46] ASTM International (2020). ASTM C1897-20: Standard Test Methods for Measuring the Reactivity of Supplementary Cementitious Materials by Isothermal Calorimetry and Bound Water Measurements. DOI: 10.1520/C1897-20 https://store.astm.org/c1897-20.html",
+      "work_ids": [
+        "f170_ref_046"
+      ]
+    },
+    {
+      "number": 47,
+      "exact_reference": "[47] ASTM International (2026). ASTM C618-26: Standard Specification for Coal Ash and Raw or Calcined Natural Pozzolan for Use in Concrete. DOI: 10.1520/C0618-26 https://store.astm.org/c0618-26.html",
+      "work_ids": [
+        "f170_ref_047"
+      ]
+    },
+    {
+      "number": 48,
+      "exact_reference": "[48] U.S. Department of Energy, Office of NEPA Policy and Compliance (2024). CX-033529: The Deeply Decarbonized Cement Project – Phase 1. Portal date 16 October 2024. https://www.energy.gov/nepa/articles/cx-033529-deeply-decarbonized-cement-project-phase-1 Determination: https://www.energy.gov/sites/default/files/2025-04/CX-033529.pdf",
+      "work_ids": [
+        "f170_ref_048"
+      ]
+    },
+    {
+      "number": 49,
+      "exact_reference": "[49] Medeiros, S.; Fernandes, I.; Fournier, B.; Nunes, J. C.; Santos-Silva, A.; Ramos, V.; Soares, D. (2022). Alkali-silica reaction in volcanic rocks: a worldwide comparative approach. Materiales de Construcción 72(346), e278. DOI: 10.3989/mc.2022.16221",
+      "work_ids": [
+        "f170_ref_049"
+      ]
+    },
+    {
+      "number": 50,
+      "exact_reference": "[50] Guerra, L. (2013). Viabilidade técnica da adição de finos de basalto à pasta de cimento Portland [Technical feasibility of adding basalt fines to Portland-cement paste]. Master's dissertation, Universidade Estadual de Londrina, Londrina, Brazil; defended 14 February 2013. https://repositorio.uel.br/items/d8581283-ffae-46e4-9a85-7b8b530ecce0/full",
+      "work_ids": [
+        "f170_ref_050"
+      ]
+    },
+    {
+      "number": 51,
+      "exact_reference": "[51] VDZ Technology gGmbH (project period 2020–2024; undated online summary). Einfluss freisetzbarer Alkalien aus Gesteinskörnungen auf eine schädigende Alkali-Kieselsäure-Reaktion in Beton [Influence of releasable alkalis from aggregates on damaging alkali–silica reaction in concrete]. IGF 21386 N. https://www.vdz-online.de/wissensportal/forschungsprojekte/einfluss-freisetzbarer-alkalien-aus-gesteinskoernungen-auf-eine-schaedigende-alkali-kieselsaeure-reaktion-in-beton",
+      "work_ids": [
+        "f170_ref_051"
+      ]
+    },
+    {
+      "number": 52,
+      "exact_reference": "[52] VDZ gGmbH; Bauhaus-Universität Weimar, F. A. Finger-Institut für Baustoffkunde; Technische Universität München, Centrum Baustoffe und Materialprüfung (undated; project period 2016–2019). Verhalten verschiedener Gesteine unter beschleunigten Bedingungen in AKR-Prüfverfahren [Behavior of different rocks under accelerated conditions in ASR test methods]. IGF 19077 BG, six-page research-results report. https://www.vdz-online.de/fileadmin/wissensportal/publikationen/forschungsergebnisse/IGF_19077BG.pdf",
+      "work_ids": [
+        "f170_ref_052"
+      ]
+    },
+    {
+      "number": 53,
+      "exact_reference": "[53] 최연왕 [Choi, Y.-W.]; 오성록 [Oh, S.-R.]; 최병걸 [Choi, B. K.] (2016). 바잘트 섬유보강 모르타르의 하이볼륨 플라이애시 적용에 따른 기초 품질 특성에 관한 실험적 연구 [An Experimental Study on Fundamental Quality Properties of Basalt Fiber Reinforced Mortar according to Application of High Volume Fly Ash]. Journal of the Korea Concrete Institute 28(4), 387–394. DOI: 10.4334/JKCI.2016.28.4.387 http://www.jkci.or.kr/jkci/XmlViewer/f341993",
+      "work_ids": [
+        "f170_ref_053"
+      ]
+    },
+    {
+      "number": 54,
+      "exact_reference": "[54] Choi, H.-B.; Park, J.-O.; Kim, T.-H.; Lee, K.-R. (2021). Mechanical Properties of Basalt-Based Recycled Aggregate Concrete for Jeju Island. Materials 14(18), 5429. DOI: 10.3390/ma14185429 https://pmc.ncbi.nlm.nih.gov/articles/PMC8470170/",
+      "work_ids": [
+        "f170_ref_054"
+      ]
+    },
+    {
+      "number": 55,
+      "exact_reference": "[55] Choi, H.-B.; Park, J.-O. (2022). Study on Mechanical Properties of Concrete Using Basalt-Based Recycled Aggregate and Varying Curing Conditions. Materials 15(13), 4563. DOI: 10.3390/ma15134563 https://pmc.ncbi.nlm.nih.gov/articles/PMC9267599/",
+      "work_ids": [
+        "f170_ref_055"
+      ]
+    },
+    {
+      "number": 56,
+      "exact_reference": "[56] Scharroo, P. W. (1932). Drogi betonowe na Węgrzech [Concrete roads in Hungary]. Cement, year III, no. 1 (January), 3–6. https://jbc.bj.uj.edu.pl/Content/990047/NDIGCZAS103821_1932_001.pdf",
+      "work_ids": [
+        "f170_ref_056"
+      ]
+    },
+    {
+      "number": 57,
+      "exact_reference": "[57] Maiza, P.; Marfil, S.; Rocco, C.; Fava, C.; Tobes, J. (2010). Pavimentos de hormigón elaborados con agregados basálticos y afectados por reacción álcali sílice (RAS). Casos de estudio [Basalt-aggregate concrete pavements affected by alkali–silica reaction: case studies]. I Congreso Hormigón Premezclado de las Américas / XII Congreso Iberoamericano del Hormigón Premezclado / IV Congreso Internacional de Tecnología del Hormigón / 18ª Reunión Técnica AATH, Mar del Plata, 12 pp. https://digital.cic.gba.gob.ar/server/api/core/bitstreams/5121676e-dcf0-4231-a5b1-1a76015820bb/content",
+      "work_ids": [
+        "f170_ref_057"
+      ]
+    },
+    {
+      "number": 58,
+      "exact_reference": "[58] Pirri, A. (2012). Attività sperimentale su materiali ecosostenibili fibrorinforzati con tessuti a base di fibre di basalto per applicazioni civili [Experimental work on basalt-textile-reinforced composite materials for civil applications]. Laurea magistrale thesis, Università di Bologna; defended 14 February 2012. https://amslaurea.unibo.it/3021/",
+      "work_ids": [
+        "f170_ref_058"
+      ]
+    },
+    {
+      "number": 59,
+      "exact_reference": "[59] Тронза, Е. И.; Тюрина, С. А.; Дальская, Г. Ю.; Юдин, Г. А. [Tronza, E. I.; Tyurina, S. A.; Dal'skaya, G. Yu.; Yudin, G. A.] (2022). Исследование композиционного материала на основе цемента [Research of cement-based composite material]. Международный научно-исследовательский журнал [International Research Journal], no. 6 (120). DOI: 10.23670/IRJ.2022.120.6.017 https://research-journal.org/en/archive/6-120-2022-june/issledovanie-kompozicionnogo-materiala-na-osnove-cementa",
+      "work_ids": [
+        "f170_ref_059"
+      ]
+    },
+    {
+      "number": 60,
+      "exact_reference": "[60] Grzeszczyk, S.; Matuszek-Chmurowska, A.; Vejmelková, E.; Černý, R. (2020). Reactive Powder Concrete Containing Basalt Fibers: Strength, Abrasion and Porosity. Materials 13(13), 2948. DOI: 10.3390/ma13132948 https://pmc.ncbi.nlm.nih.gov/articles/PMC7372488/",
+      "work_ids": [
+        "f170_ref_060"
+      ]
+    },
+    {
+      "number": 61,
+      "exact_reference": "[61] Daungwilailuk, T.; Pansuk, W. (2026). Use of Basalt Powder to Replace Cement in 3D-Printed Concrete. Journal of Materials in Civil Engineering 38(9). DOI: 10.1061/JMCEE7.MTENG-22215 https://doi.org/10.1061/JMCEE7.MTENG-22215",
+      "work_ids": [
+        "f170_ref_061"
+      ]
+    },
+    {
+      "number": 62,
+      "exact_reference": "[62] Silva, K. R. da; Jesus, F. B. T. de; Inocente, J.; Arcaro, S.; Raupp-Pereira, F.; Montedo, O. R. K. (2022; online 25 November 2021). Basalt-Containing Pressed Cement Plates for Construction Systems: Technological and Toxicological Characterization. Journal of Materials in Civil Engineering 34(2). DOI: 10.1061/(ASCE)MT.1943-5533.0004078 https://doi.org/10.1061/(ASCE)MT.1943-5533.0004078",
+      "work_ids": [
+        "f170_ref_062"
+      ]
+    },
+    {
+      "number": 63,
+      "exact_reference": "[63] Li, Y.; Zeng, X.; Zhou, J.; Shi, Y.; Umar, H. A.; Long, G.; Xie, Y. (2021). Development of an eco-friendly ultra-high performance concrete based on waste basalt powder for Sichuan-Tibet Railway. Journal of Cleaner Production 312, 127775. DOI: 10.1016/j.jclepro.2021.127775 https://doi.org/10.1016/j.jclepro.2021.127775",
+      "work_ids": [
+        "f170_ref_063"
+      ]
+    },
+    {
+      "number": 64,
+      "exact_reference": "[64] 湯地 輝 [Yuji, H.] (2014). 材料と機器の適合性を考慮した乾式吹付けコンクリートの品質管理手法に関する基礎的研究 [Fundamental Study on Quality Control Method for Dry Mixed Shotcrete Considering Compatibility with Material and Equipment]. Doctoral dissertation, Kagoshima University, March 2014, especially Chapter 7, pp. 99–111. https://ir.kagoshima-u.ac.jp/record/11679/files/Diss_YUJI_Hikaru_2711510097_2013.pdf",
+      "work_ids": [
+        "f170_ref_064"
+      ]
+    },
+    {
+      "number": 65,
+      "exact_reference": "[65] 岩下 健太郎; 呉 智深; 橋本 拓也; 金 光男 (2011). ピアノ線混入BFRPシート緊張接着補強RC梁の曲げ構造性能 [Flexural structural behavior of RC beams strengthened with prestressed piano-wire/BFRP hybrid sheets]. コンクリート工学年次論文集 [Proceedings of the Japan Concrete Institute] 33(2), 1399–1404. https://data.jci-net.or.jp/data_pdf/33/033-01-2234.pdf",
+      "work_ids": [
+        "f170_ref_065"
+      ]
+    },
+    {
+      "number": 66,
+      "exact_reference": "[66] 国家市场监督管理总局; 国家标准化管理委员会 [State Administration for Market Regulation; Standardization Administration of China] (2023). GB/T 23265-2023: 水泥混凝土和砂浆用短切玄武岩纤维 [Chopped basalt fiber for cement concrete and mortar]. Published 23 May 2023; effective 1 December 2023; replaces GB/T 23265-2009 in full. https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4EBA6546502B62C56D52D2E37FE2F42F",
+      "work_ids": [
+        "f170_ref_066"
+      ]
+    },
+    {
+      "number": 67,
+      "exact_reference": "[67] Altuncı, Y. T.; Gençer, A. (2026). Çimento yerine atık bazalt tozu ikamesinin betonun mekanik ve geçirgenlik özelliklerine etkisi [Effect of waste basalt powder as a cement replacement on the mechanical and permeability properties of concrete]. Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi 10(1), 69–74. DOI: 10.62301/usmtd.1925522 https://dergipark.org.tr/tr/download/article-file/5890230",
+      "work_ids": [
+        "f170_ref_067"
+      ]
+    },
+    {
+      "number": 68,
+      "exact_reference": "[68] Arı, K. (2022). Raylı sistem traverslere, bazalt tozu ilavesinin buz çözücü tuz etkisine katkısı [Effect of basalt-powder addition on deicing-salt action in railway sleepers]. Demiryolu Mühendisliği 16, 79–90. DOI: 10.47072/demiryolu.1114732 https://dergipark.org.tr/tr/download/article-file/2419921",
+      "work_ids": [
+        "f170_ref_068"
+      ]
+    },
+    {
+      "number": 69,
+      "exact_reference": "[69] Filla, J. C. (2011). Estudo da utilização de pó ultrafino de basalto como adição na preparação de um cimento mitigador da reação álcali-sílica [Study of ultrafine basalt powder in a cement for mitigating alkali–silica reaction]. Master's dissertation, Universidade Estadual de Londrina; defended 18 February 2011. Especially §§6.3, 7.3–7.5. https://repositorio.uel.br/items/1832e7a4-d4f3-4ca8-a570-2aa4b691e389/full",
+      "work_ids": [
+        "f170_ref_069"
+      ]
+    },
+    {
+      "number": 70,
+      "exact_reference": "[70] Mrduljaš, B.; Škreb, K. A.; Baričević, A.; Pavunc Samaržija, M.; Vujasinović, E. (2025). Comparative study of natural and accelerated ageing of basalt fibres under alkaline and mildly acidic conditions. Case Studies in Construction Materials 23, e05472. DOI: 10.1016/j.cscm.2025.e05472 https://www.sciencedirect.com/science/article/pii/S2214509525012707",
+      "work_ids": [
+        "f170_ref_070"
+      ]
+    },
+    {
+      "number": 71,
+      "exact_reference": "[71] Quile Lagua, J. A. (2025). Análisis de las propiedades del hormigón con resistencia Fc = 21Mpa fabricado con áridos reciclados y polvo basáltico como adición activa [Analysis of concrete with recycled aggregates and basalt powder as an active addition]. Civil engineering degree research report, Universidad Estatal del Sur de Manabí, Jipijapa, Ecuador. Supervisor Byron Baque Campozano; repository publication 23 October 2025. https://repositorio.unesum.edu.ec/handle/53000/8418",
+      "work_ids": [
+        "f170_ref_071"
+      ]
+    },
+    {
+      "number": 72,
+      "exact_reference": "[72] Rumiński, P.; Szeląg, M. (2025). Results for basalt powder-cement pastes testing under thermal load conditions. RepOD, version 3. DOI: 10.18150/P4OURR https://doi.org/10.18150/P4OURR",
+      "work_ids": [
+        "f170_ref_072"
+      ]
+    },
+    {
+      "number": 73,
+      "exact_reference": "[73] Jesus, F. B. T. de; Rodrigues, K.; Inocente, J.; Arcaro, S.; Montedo, O. R. K. (2024). Obtenção de telha prensada a base de material cimentício e pó de basalto por meio da tecnologia do pó [Obtaining pressed roof tiles from cementitious material and basalt powder by powder technology]. Revista UNICREA 2(1), 199–223. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/download/56/67/74",
+      "work_ids": [
+        "f170_ref_073"
+      ]
+    },
+    {
+      "number": 74,
+      "exact_reference": "[74] Gheller, R.; Silva, L. L.; Fiori, M. A.; Batiston, E. R. (2022). Estudo exploratório para ativação alcalina de pó basáltico como uma matriz cimentícia suplementar [Exploratory study for the alkaline activation of basalt powder as a supplementary cementitious matrix]. Revista IBRACON de Estruturas e Materiais 15(4), e15405. DOI: 10.1590/S1983-41952022000400005 https://www.scielo.br/j/riem/a/r4WW5dZMhHDgfnL6ZXFLsnN",
+      "work_ids": [
+        "f170_ref_074"
+      ]
+    },
+    {
+      "number": 75,
+      "exact_reference": "[75] Thiele, D.; Pohl, J.; Diler, S. (inventors) (2021; priority 21 October 2019). Einrichtung sowie Ladesystem und Verfahren zur induktiven Ladung einer Batterie eines elektrisch betreibbaren Kraftfahrzeugs [Device, charging system and method for inductive charging of an electrically operated vehicle battery]. DE102019128278A1, published 22 April 2021. Patent disclosure; concrete-cover formulations include basalt flour. https://patents.google.com/patent/DE102019128278A1/de",
+      "work_ids": [
+        "f170_ref_075"
+      ]
+    },
+    {
+      "number": 76,
+      "exact_reference": "[76] 김명덕 (inventor) (2023; parent application priority 6 July 2021). 콘크리트 구조물의 보수재 조성물 및 콘크리트 구조물의 보수공법 [Repair composition for concrete structures and repairing method]. KR20230010605A and KR20230010606A, both published 19 January 2023; divisional applications KR1020220152881A and KR1020220152883A from KR1020210088715A. https://patents.google.com/patent/KR20230010605A/ko ; https://patents.google.com/patent/KR20230010606A/ko",
+      "work_ids": [
+        "f170_ref_076",
+        "f170_ref_076_b"
+      ]
+    },
+    {
+      "number": 77,
+      "exact_reference": "[77] 马清清; 陈平; 赵艳荣; 刘荣进 (inventors) (2012). 用玄武岩微粉-矿渣微粉-石灰石粉作掺合料制备混凝土的方法 [Method of preparing concrete using basalt, slag and limestone powders as an addition]. CN102674782A, published 19 September 2012; CN102674782B, published 24 July 2013. One application family, CN201210166385. Patent disclosure. https://patents.google.com/patent/CN102674782A/zh",
+      "work_ids": [
+        "f170_ref_077"
+      ]
+    },
+    {
+      "number": 78,
+      "exact_reference": "[78] Clavaud, B.; Cochet, G.; Gnagne, C.; Targe, J.-P. (inventors) (1997). Béton composite [Composite concrete]. EP0805788A1, published 12 November 1997. Patent disclosure, with basalt among hard aggregate choices; performance claims concern a multicomponent formulation. https://patents.google.com/patent/EP0805788A1/fr",
+      "work_ids": [
+        "f170_ref_078"
+      ]
+    },
+    {
+      "number": 79,
+      "exact_reference": "[79] 荒木 昭俊; 水島 一行; 高木 聡史; 山岸 隆典; 串橋 巧 (inventors) (2007). 水硬性材料およびそれを用いた補修方法 [Hydraulic material and repair method using it]. JP2007290911A, published 8 November 2007; priority 25 April 2006; related grant JP4963189B2. Patent disclosure. https://patents.google.com/patent/JP2007290911A/ja",
+      "work_ids": [
+        "f170_ref_079"
+      ]
+    },
+    {
+      "number": 80,
+      "exact_reference": "[80] Rumiński, P.; Szeląg, M. (2025). Mechanistic–empirical porosity model for basalt powder-cement pastes under thermal load conditions. Construction and Building Materials 492, 142916. DOI: 10.1016/j.conbuildmat.2025.142916 https://doi.org/10.1016/j.conbuildmat.2025.142916",
+      "work_ids": [
+        "f170_ref_080"
+      ]
+    },
+    {
+      "number": 81,
+      "exact_reference": "[81] Piasta, W. G.; Góra, J. (2006). Wytrzymałość na ściskanie i na rozciąganie betonów zwykłych i wysokowartościowych z różnymi kruszywami łamanymi [Compressive and splitting tensile strength of ordinary and high performance concretes with various crushed aggregates]. Cement Wapno Beton 11/73(3), 184–192. https://www.cementwapnobeton.pl/pdf-177771-98342?filename=Compressive+and+splitting.pdf",
+      "work_ids": [
+        "f170_ref_081"
+      ]
+    },
+    {
+      "number": 82,
+      "exact_reference": "[82] Piasta, W.; Budzyński, W.; Góra, J. (2015). Wpływ wybranych kruszyw na właściwości betonu wysokowartościowego [The effect of selected aggregates on the properties of high performance concrete]. Cement Wapno Beton 20(3), 171–178. https://www.cementwapnobeton.pl/pdf-177101-97721?filename=The+effect+of+selected.pdf",
+      "work_ids": [
+        "f170_ref_082"
+      ]
+    },
+    {
+      "number": 83,
+      "exact_reference": "[83] Hollingham, M.; Gevaudan, J. P. (2026). Pairing Chemical Activation and Carbonation of Basalt to Manufacture Novel Supplementary Cementitious Materials that Incorporate Carbon Capture. ACS Sustainable Chemistry & Engineering 14(24), 10880–10895. DOI: 10.1021/acssuschemeng.6c00877 https://pubs.acs.org/doi/10.1021/acssuschemeng.6c00877",
+      "work_ids": [
+        "f170_ref_083"
+      ]
+    },
+    {
+      "number": 84,
+      "exact_reference": "[84] 水泥网 [Ccement] (2006). 低热、低品位石灰石烧制高强度熟料的工艺方案 [Process scheme for firing high-strength clinker with low-heat-value fuel and low-grade limestone]. 16 August 2006. Technical trade account concerning Hainan Danzhou Baoqiang; attributed to 数字水泥 [Digital Cement]. https://www.ccement.com/news/content/700998.html",
+      "work_ids": [
+        "f170_ref_084"
+      ]
+    },
+    {
+      "number": 85,
+      "exact_reference": "[85] Alves, G. P. (2018). Investigação micro e macroestrutural de argamassas submetidas a elevadas temperaturas [Micro- and macrostructural investigation of mortars subjected to elevated temperatures]. Master's dissertation, Universidade Estadual de Londrina; defended 3 December 2018. Especially Table 3.4 and Chapters 4–5. https://repositorio.uel.br/srv-c0003-s01/api/core/bitstreams/9676213f-2111-492e-9ef4-58915204c04d/content",
+      "work_ids": [
+        "f170_ref_085"
+      ]
+    },
+    {
+      "number": 86,
+      "exact_reference": "[86] American Concrete Institute (n.d.). Pozzolan: definition and topic overview. ACI Concrete Terminology, public topic page. https://www.concrete.org/topicsinconcrete/topicdetail.aspx?search=pozzolan",
+      "work_ids": [
+        "f170_ref_086"
+      ]
+    },
+    {
+      "number": 87,
+      "exact_reference": "[87] Staatliche Geologische Dienste Deutschlands / Bundesanstalt für Geowissenschaften und Rohstoffe (n.d.). Magmatite – Vulkanische Lockergesteine [Igneous rocks – unconsolidated volcanic materials]. Bodenschätze der Bundesrepublik Deutschland, public raw-material portal. https://rohstoffportal-sgd.bgr.de/magmatite_vulk_lockergesteine.shtml",
+      "work_ids": [
+        "f170_ref_087"
+      ]
+    },
+    {
+      "number": 88,
+      "exact_reference": "[88] Szaj, P. (2012). Wpływ wybranych dodatków mineralnych na właściwości reologiczne zaczynów cementowych [Effect of some mineral supplements on rheological properties of cement slurries]. Prace Naukowe Instytutu Górnictwa Politechniki Wrocławskiej, Studia i Materiały 134(41), 285–294; publisher archive: Mining Science. https://www.miningscience.pwr.edu.pl/pdf-59897-3256?filename=Effect-of-some-mineral-su.pdf",
+      "work_ids": [
+        "f170_ref_088"
+      ]
+    },
+    {
+      "number": 89,
+      "exact_reference": "[89] Cienfuegos Cabanillas, L. Y. (2026). Análisis de las propiedades físicos-mecánicas de adoquines con adición de fibras de basalto destinados al tránsito ligero [Analysis of the physical–mechanical properties of paving blocks with basalt fibers for light traffic]. Civil-engineering degree thesis, Universidad Católica Santo Toribio de Mogrovejo, Chiclayo. https://repositorio.usat.edu.pe/server/api/core/bitstreams/fbd7e968-17ed-4a19-8951-e63bd0d48a86/content",
+      "work_ids": [
+        "f170_ref_089"
+      ]
+    },
+    {
+      "number": 90,
+      "exact_reference": "[90] Исмаилов, Ф. С.; Каримов, М.; Джалилов, А. Т.; Исмаилова, Х. Д.; Ахмедов, С. И. (2024). Испытание на прочность бетонных смесей с добавлением суперпластификаторов и базальтовой фибры [Strength test of concrete mixtures with the addition of superplasticizers and basalt fibre]. Universum: технические науки 10(127), 16–18. https://7universum.com/ru/tech/archive/item/18395",
+      "work_ids": [
+        "f170_ref_090"
+      ]
+    },
+    {
+      "number": 91,
+      "exact_reference": "[91] Урханова, Л. А.; Лхасаранов, С. А.; Розина, В. Е.; Буянтуев, С. Л.; Бардаханов, С. П. (2014). Базальтофибробетон с улучшенными физико-механическими и эксплуатационными свойствами с применением нанодисперсных модификаторов [Basalt fiber reinforced concrete with improved physico-mechanical and performance properties using nanodispersed modifiers]. Вестник Иркутского государственного технического университета 11(94), 175–180. https://journals.istu.edu/vestnik_irgtu/journals/2014/11/articles/31?view=0",
+      "work_ids": [
+        "f170_ref_091"
+      ]
+    },
+    {
+      "number": 92,
+      "exact_reference": "[92] Menard, M. H. (inventor); M. Lefevre SA (applicant) (2007; filed 25 October 2005). Procédé de renforcement sur site d'un élément de construction et élément de construction renforcé [Method of reinforcing an existing construction element in situ, and reinforced construction element]. FR2892440A1, published 27 April 2007. Patent disclosure. https://patents.google.com/patent/FR2892440A1/fr",
+      "work_ids": [
+        "f170_ref_092"
+      ]
+    },
+    {
+      "number": 93,
+      "exact_reference": "[93] Silva, K. R. da; Jesus, F. B. T. de; Inocente, J. M.; Arcaro, S.; Raupp-Pereira, F.; Montedo, O. R. K. (2023). Placas de cimento prensado contendo basalto para sistemas construtivos: caracterização tecnológica e toxicológica [Basalt-containing pressed cement plates for construction systems: technological and toxicological characterization]. Revista UNICREA 1(2), 223–251. Published online 22 September 2023; issue labeled May–August 2023. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/view/33",
+      "work_ids": [
+        "f170_ref_093"
+      ]
+    },
+    {
+      "number": 94,
+      "exact_reference": "[94] 刘卫东; 林瑜; 钟海荣; 苏海华 (2011). 抗冲刷磨蚀混凝土的耐磨损试验研究 [Anti-abrasion test of erosion and denudation resistant concrete]. 工程力学 [Engineering Mechanics] 28(Suppl. II), 157–160; references continued on p. 165. https://engineeringmechanics.cn/cn/article/pdf/preview/5424.pdf",
+      "work_ids": [
+        "f170_ref_094"
+      ]
+    },
+    {
+      "number": 95,
+      "exact_reference": "[95] 李光伟 [Li, G.]; 杨元慧 [Yang, Y.] (2001). 人工骨料耐磨性及混凝土抗冲耐磨性能试验研究——以溪洛渡水电站为例 [Experimental study of manufactured-aggregate wear resistance and concrete abrasion resistance: the Xiluodu Hydropower Station case]. 水利水电科技进展 [Advances in Science and Technology of Water Resources] 21(1), 27–30; references continued on p. 68. https://jour.hhu.edu.cn/slsdkjjz/article/pdf/jz20010108",
+      "work_ids": [
+        "f170_ref_095"
+      ]
+    },
+    {
+      "number": 96,
+      "exact_reference": "[96] 朱辉煌 [Zhu, H.]; 张静 [Zhang, J.] (2011). 溪洛渡大坝骨料针片状含量控制研究与生产实践 [Research on control of content of flake-like particles in aggregate of Xiluodu Dam and its production practice]. 人民长江 [Yangtze River] 42(24), 34–37. https://www.rmcjzz.cjw.cn/cn/article/pdf/preview/rmcj_8124.pdf",
+      "work_ids": [
+        "f170_ref_096"
+      ]
+    },
+    {
+      "number": 97,
+      "exact_reference": "[97] 张启中 [Zhang, Q.] (2006). 采用玄武岩为混合材试生产32.5级硅酸盐水泥 [Trial production of grade 32.5 Portland cement using basalt as an addition]. 水泥技术 [Cement Technology] (1), 82–84. https://www.cemteck.com/CN/Y2006/V1/I1/82",
+      "work_ids": [
+        "f170_ref_097"
+      ]
+    },
+    {
+      "number": 98,
+      "exact_reference": "[98] 刘来宝; 唐凯靖; 张礼华; 等 [Liu, L.; Tang, K.; Zhang, L.; et al.] (2013). 粉磨方式对玄武岩作水泥混合材性能的影响 [Effect of grinding method on the performance of basalt as a cement addition]. 水泥 [Cement] (9), 7–11. Cited in 中国粉体技术 [China Powder Science and Technology] 22(6) (2016), p. 94, reference 11. https://www.sciengine.com/doi/pdf/2185B44E024D4FE497D19F88541380F6",
+      "work_ids": [
+        "f170_ref_098"
+      ],
+      "supporting_object_ids": [
+        "f170_ref_098_witness"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "f170_ref_001",
+      "type": "article-journal",
+      "title": "Chemical aspects of the application of basalt in cement composites",
+      "author": [
+        {
+          "family": "Scheinherrová",
+          "given": "L."
+        },
+        {
+          "family": "Keppert",
+          "given": "M."
+        },
+        {
+          "family": "Černý",
+          "given": "R."
+        }
+      ],
+      "note": "Construction and Building Materials 350, 128873. DOI: 10.1016/j.conbuildmat.2022.128873",
+      "citation-number": 1,
+      "original-reference": "[1] Scheinherrová, L.; Keppert, M.; Černý, R. (2022). Chemical aspects of the application of basalt in cement composites. Construction and Building Materials 350, 128873. DOI: 10.1016/j.conbuildmat.2022.128873",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.conbuildmat.2022.128873",
+      "container-title": "Construction and Building Materials",
+      "volume": "350",
+      "article-locator": "128873"
+    },
+    {
+      "id": "f170_ref_002",
+      "type": "article-journal",
+      "title": "Basalt Rock Powder in Cementitious Materials: A Systematic Review",
+      "author": [
+        {
+          "family": "Almeida",
+          "given": "M. P. B."
+        },
+        {
+          "family": "Gomes",
+          "given": "L. da S. S."
+        },
+        {
+          "family": "Silva",
+          "given": "A. R."
+        },
+        {
+          "family": "Tamashiro",
+          "given": "J. R."
+        },
+        {
+          "family": "Paiva",
+          "given": "F. F. G."
+        },
+        {
+          "family": "Silva",
+          "given": "L. H. P."
+        },
+        {
+          "family": "Kinoshita",
+          "given": "A."
+        }
+      ],
+      "note": "Resources 14(6), 86. DOI: 10.3390/resources14060086",
+      "citation-number": 2,
+      "original-reference": "[2] Almeida, M. P. B.; Gomes, L. da S. S.; Silva, A. R.; Tamashiro, J. R.; Paiva, F. F. G.; Silva, L. H. P.; Kinoshita, A. (2025). Basalt Rock Powder in Cementitious Materials: A Systematic Review. Resources 14(6), 86. DOI: 10.3390/resources14060086",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.3390/resources14060086",
+      "container-title": "Resources",
+      "volume": "14",
+      "issue": "6",
+      "article-locator": "86"
+    },
+    {
+      "id": "f170_ref_003",
+      "type": "article-journal",
+      "title": "Evaluation of selected basalts from Niğde, Turkey, as source of concrete aggregate",
+      "author": [
+        {
+          "family": "Korkanç",
+          "given": "M."
+        },
+        {
+          "family": "Tuğrul",
+          "given": "A."
+        }
+      ],
+      "note": "Engineering Geology 75, 291–307. DOI: 10.1016/j.enggeo.2004.06.015",
+      "citation-number": 3,
+      "original-reference": "[3] Korkanç, M.; Tuğrul, A. (2004). Evaluation of selected basalts from Niğde, Turkey, as source of concrete aggregate. Engineering Geology 75, 291–307. DOI: 10.1016/j.enggeo.2004.06.015",
+      "issued": {
+        "date-parts": [
+          [
+            2004
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.enggeo.2004.06.015",
+      "container-title": "Engineering Geology",
+      "volume": "75",
+      "page": "291–307"
+    },
+    {
+      "id": "f170_ref_004",
+      "type": "article-journal",
+      "title": "Evaluation of selected basalts from the point of alkali–silica reactivity",
+      "author": [
+        {
+          "family": "Korkanç",
+          "given": "M."
+        },
+        {
+          "family": "Tuğrul",
+          "given": "A."
+        }
+      ],
+      "note": "Cement and Concrete Research 35(3), 505–512. DOI: 10.1016/j.cemconres.2004.06.013",
+      "citation-number": 4,
+      "original-reference": "[4] Korkanç, M.; Tuğrul, A. (2005). Evaluation of selected basalts from the point of alkali–silica reactivity. Cement and Concrete Research 35(3), 505–512. DOI: 10.1016/j.cemconres.2004.06.013",
+      "issued": {
+        "date-parts": [
+          [
+            2005
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.cemconres.2004.06.013",
+      "container-title": "Cement and Concrete Research",
+      "volume": "35",
+      "issue": "3",
+      "page": "505–512"
+    },
+    {
+      "id": "f170_ref_005",
+      "type": "article-journal",
+      "title": "O rejeito da mineração de basalto no nordeste do Estado do Rio Grande do Sul: diagnóstico do problema",
+      "author": [
+        {
+          "family": "Toscan",
+          "given": "L."
+        },
+        {
+          "family": "Kautzmann",
+          "given": "R. M."
+        },
+        {
+          "family": "Sabedot",
+          "given": "S."
+        }
+      ],
+      "note": "REM: Revista Escola de Minas 60(4), 657–662. DOI: 10.1590/S0370-44672007000400011",
+      "citation-number": 5,
+      "original-reference": "[5] Toscan, L.; Kautzmann, R. M.; Sabedot, S. (2007). O rejeito da mineração de basalto no nordeste do Estado do Rio Grande do Sul: diagnóstico do problema [Basalt-mining residues in northeastern Rio Grande do Sul: diagnosis]. REM: Revista Escola de Minas 60(4), 657–662. DOI: 10.1590/S0370-44672007000400011",
+      "issued": {
+        "date-parts": [
+          [
+            2007
+          ]
+        ]
+      },
+      "title-translation": "Basalt-mining residues in northeastern Rio Grande do Sul: diagnosis",
+      "DOI": "10.1590/S0370-44672007000400011",
+      "container-title": "REM: Revista Escola de Minas",
+      "volume": "60",
+      "issue": "4",
+      "page": "657–662"
+    },
+    {
+      "id": "f170_ref_006",
+      "type": "article-journal",
+      "title": "Investigation into Pozzolanic Activity Component of Basalt and Pumice",
+      "author": [
+        {
+          "family": "Yu",
+          "given": "L."
+        },
+        {
+          "family": "Zhou",
+          "given": "S."
+        },
+        {
+          "family": "Dong",
+          "given": "J."
+        }
+      ],
+      "note": "Journal of Materials in Civil Engineering 32(6), 04020135. DOI: 10.1061/(ASCE)MT.1943-5533.0003180",
+      "citation-number": 6,
+      "original-reference": "[6] Yu, L.; Zhou, S.; Dong, J. (2020). Investigation into Pozzolanic Activity Component of Basalt and Pumice. Journal of Materials in Civil Engineering 32(6), 04020135. DOI: 10.1061/(ASCE)MT.1943-5533.0003180",
+      "issued": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "DOI": "10.1061/(ASCE)MT.1943-5533.0003180",
+      "container-title": "Journal of Materials in Civil Engineering",
+      "volume": "32",
+      "issue": "6",
+      "article-locator": "04020135"
+    },
+    {
+      "id": "f170_ref_007",
+      "type": "article-journal",
+      "title": "Effect of Basalt Powder on Hydration, Rheology, and Strength Development of Cement Paste",
+      "author": [
+        {
+          "family": "Li",
+          "given": "J."
+        },
+        {
+          "family": "Che",
+          "given": "D."
+        },
+        {
+          "family": "Liu",
+          "given": "Z."
+        },
+        {
+          "family": "Yu",
+          "given": "L."
+        },
+        {
+          "family": "Ouyang",
+          "given": "X."
+        }
+      ],
+      "note": "Materials 15(23), 8632. DOI: 10.3390/ma15238632",
+      "citation-number": 7,
+      "original-reference": "[7] Li, J.; Che, D.; Liu, Z.; Yu, L.; Ouyang, X. (2022). Effect of Basalt Powder on Hydration, Rheology, and Strength Development of Cement Paste. Materials 15(23), 8632. DOI: 10.3390/ma15238632",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma15238632",
+      "container-title": "Materials",
+      "volume": "15",
+      "issue": "23",
+      "article-locator": "8632"
+    },
+    {
+      "id": "f170_ref_008",
+      "type": "article-journal",
+      "title": "Thermal activation of inert basaltic materials to create supplementary cementitious materials",
+      "author": [
+        {
+          "family": "Wang",
+          "given": "Y."
+        },
+        {
+          "family": "Suraneni",
+          "given": "P."
+        }
+      ],
+      "note": "CEMENT 13, 100082. DOI: 10.1016/j.cement.2023.100082",
+      "citation-number": 8,
+      "original-reference": "[8] Wang, Y.; Suraneni, P. (2023). Thermal activation of inert basaltic materials to create supplementary cementitious materials. CEMENT 13, 100082. DOI: 10.1016/j.cement.2023.100082",
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.cement.2023.100082",
+      "container-title": "CEMENT",
+      "volume": "13",
+      "article-locator": "100082"
+    },
+    {
+      "id": "f170_ref_009",
+      "type": "article-journal",
+      "title": "New synthetic glass-based supplementary cementitious materials derived from basalt composition",
+      "author": [
+        {
+          "family": "Alzeer",
+          "given": "M. I. M."
+        },
+        {
+          "family": "Cheeseman",
+          "given": "C."
+        },
+        {
+          "family": "Kinnunen",
+          "given": "P."
+        }
+      ],
+      "note": "Journal of Building Engineering 46, 103699. DOI: 10.1016/j.jobe.2021.103699",
+      "citation-number": 9,
+      "original-reference": "[9] Alzeer, M. I. M.; Cheeseman, C.; Kinnunen, P. (2022). New synthetic glass-based supplementary cementitious materials derived from basalt composition. Journal of Building Engineering 46, 103699. DOI: 10.1016/j.jobe.2021.103699",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jobe.2021.103699",
+      "container-title": "Journal of Building Engineering",
+      "volume": "46",
+      "article-locator": "103699"
+    },
+    {
+      "id": "f170_ref_010",
+      "type": "article-journal",
+      "title": "Mechanochemical activation of basaltic fines",
+      "author": [
+        {
+          "family": "Amroun",
+          "given": "S."
+        },
+        {
+          "family": "Galli",
+          "given": "L."
+        },
+        {
+          "family": "Tahlaiti",
+          "given": "M."
+        },
+        {
+          "family": "Suraneni",
+          "given": "P."
+        }
+      ],
+      "note": "Cement and Concrete Research 195, 107923. DOI: 10.1016/j.cemconres.2025.107923",
+      "citation-number": 10,
+      "original-reference": "[10] Amroun, S.; Galli, L.; Tahlaiti, M.; Suraneni, P. (2025). Mechanochemical activation of basaltic fines. Cement and Concrete Research 195, 107923. DOI: 10.1016/j.cemconres.2025.107923",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.cemconres.2025.107923",
+      "container-title": "Cement and Concrete Research",
+      "volume": "195",
+      "article-locator": "107923"
+    },
+    {
+      "id": "f170_ref_011",
+      "type": "patent",
+      "title": "一种用作水泥混合材的活化玄武岩粉及其制备方法",
+      "author": [
+        {
+          "literal": "刘来宝"
+        },
+        {
+          "literal": "唐凯靖"
+        },
+        {
+          "literal": "赵冬梅"
+        },
+        {
+          "literal": "许晓英"
+        },
+        {
+          "literal": "王燕"
+        }
+      ],
+      "note": "CN102503191A, published 20 June 2012. Southwest University of Science and Technology. Patent disclosure. https://patents.google.com/patent/CN102503191A/zh Source date qualifiers: 2012; priority 19 October 2011.",
+      "citation-number": 11,
+      "original-reference": "[11] 刘来宝; 唐凯靖; 赵冬梅; 许晓英; 王燕 (inventors) (2012; priority 19 October 2011). 一种用作水泥混合材的活化玄武岩粉及其制备方法 [Activated basalt powder for cement blending and its preparation]. CN102503191A, published 20 June 2012. Southwest University of Science and Technology. Patent disclosure. https://patents.google.com/patent/CN102503191A/zh",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            20
+          ]
+        ]
+      },
+      "title-translation": "Activated basalt powder for cement blending and its preparation",
+      "URL": "https://patents.google.com/patent/CN102503191A/zh",
+      "number": "CN102503191A"
+    },
+    {
+      "id": "f170_ref_012",
+      "type": "patent",
+      "title": "Безобжиговое вяжущее",
+      "author": [
+        {
+          "family": "Худякова",
+          "given": "Л. И."
+        },
+        {
+          "family": "Константинова",
+          "given": "К. К."
+        },
+        {
+          "family": "Нархинова",
+          "given": "Б. Л."
+        },
+        {
+          "family": "Беппле",
+          "given": "Р. Р."
+        },
+        {
+          "family": "Шаракшинов",
+          "given": "А. О."
+        }
+      ],
+      "note": "RU2212383C2, published 20 September 2003. Patent disclosure. https://patents.google.com/patent/RU2212383C2/ru",
+      "citation-number": 12,
+      "original-reference": "[12] Худякова, Л. И.; Константинова, К. К.; Нархинова, Б. Л.; Беппле, Р. Р.; Шаракшинов, А. О. (inventors) (2003). Безобжиговое вяжущее [Unfired binder]. RU2212383C2, published 20 September 2003. Patent disclosure. https://patents.google.com/patent/RU2212383C2/ru",
+      "issued": {
+        "date-parts": [
+          [
+            2003,
+            9,
+            20
+          ]
+        ]
+      },
+      "title-translation": "Unfired binder",
+      "URL": "https://patents.google.com/patent/RU2212383C2/ru",
+      "number": "RU2212383C2"
+    },
+    {
+      "id": "f170_ref_013",
+      "type": "article-journal",
+      "title": "Synthesis of X-Zeolite from Waste Basalt Powder and its Influencing Factors and Synthesis Mechanism",
+      "author": [
+        {
+          "family": "Ke",
+          "given": "G."
+        },
+        {
+          "family": "Shen",
+          "given": "H."
+        },
+        {
+          "family": "Yang",
+          "given": "P."
+        }
+      ],
+      "note": "Materials 12(23), 3895. DOI: 10.3390/ma12233895",
+      "citation-number": 13,
+      "original-reference": "[13] Ke, G.; Shen, H.; Yang, P. (2019). Synthesis of X-Zeolite from Waste Basalt Powder and its Influencing Factors and Synthesis Mechanism. Materials 12(23), 3895. DOI: 10.3390/ma12233895",
+      "issued": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma12233895",
+      "container-title": "Materials",
+      "volume": "12",
+      "issue": "23",
+      "article-locator": "3895"
+    },
+    {
+      "id": "f170_ref_014",
+      "type": "article-journal",
+      "title": "Optimization of mechanochemical activation of basalt fines in aqueous environments for CO2 mineralization and pozzolanic reactivity: discovery of a Pareto optimal front",
+      "author": [
+        {
+          "family": "Smith",
+          "given": "J."
+        },
+        {
+          "family": "Hollingham",
+          "given": "M."
+        },
+        {
+          "family": "Gevaudan",
+          "given": "J. P."
+        }
+      ],
+      "note": "Journal of Sustainable Cement-Based Materials. Published online 9 July 2026. DOI: 10.1080/21650373.2026.2690475",
+      "citation-number": 14,
+      "original-reference": "[14] Smith, J.; Hollingham, M.; Gevaudan, J. P. (2026). Optimization of mechanochemical activation of basalt fines in aqueous environments for CO2 mineralization and pozzolanic reactivity: discovery of a Pareto optimal front. Journal of Sustainable Cement-Based Materials. Published online 9 July 2026. DOI: 10.1080/21650373.2026.2690475",
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1080/21650373.2026.2690475",
+      "available-date": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            9
+          ]
+        ]
+      },
+      "container-title": "Journal of Sustainable Cement-Based Materials"
+    },
+    {
+      "id": "f170_ref_015",
+      "type": "article-journal",
+      "title": "Basalt rock as an alternative raw material in Portland cement manufacture",
+      "author": [
+        {
+          "family": "Hassaan",
+          "given": "M. Y."
+        }
+      ],
+      "note": "Materials Letters 50(2–3), 172–178. DOI: 10.1016/S0167-577X(01)00220-8",
+      "citation-number": 15,
+      "original-reference": "[15] Hassaan, M. Y. (2001). Basalt rock as an alternative raw material in Portland cement manufacture. Materials Letters 50(2–3), 172–178. DOI: 10.1016/S0167-577X(01)00220-8",
+      "issued": {
+        "date-parts": [
+          [
+            2001
+          ]
+        ]
+      },
+      "DOI": "10.1016/S0167-577X(01)00220-8",
+      "container-title": "Materials Letters",
+      "volume": "50",
+      "issue": "2–3",
+      "page": "172–178"
+    },
+    {
+      "id": "f170_ref_016",
+      "type": "article-journal",
+      "title": "Rejeitos da mineração de basalto como matérias-primas para clínquer Portland",
+      "author": [
+        {
+          "family": "Andrade",
+          "given": "F. R. D."
+        },
+        {
+          "family": "Pecchio",
+          "given": "M."
+        },
+        {
+          "family": "Bendoraitis",
+          "given": "D. P."
+        },
+        {
+          "family": "Montanheiro",
+          "given": "T. J."
+        },
+        {
+          "family": "Kihara",
+          "given": "Y."
+        }
+      ],
+      "note": "Cerâmica 56(337), 39–43. DOI: 10.1590/S0366-69132010000100007",
+      "citation-number": 16,
+      "original-reference": "[16] Andrade, F. R. D.; Pecchio, M.; Bendoraitis, D. P.; Montanheiro, T. J.; Kihara, Y. (2010). Rejeitos da mineração de basalto como matérias-primas para clínquer Portland [Basalt mine-tailings as raw materials for Portland clinker]. Cerâmica 56(337), 39–43. DOI: 10.1590/S0366-69132010000100007",
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "title-translation": "Basalt mine-tailings as raw materials for Portland clinker",
+      "DOI": "10.1590/S0366-69132010000100007",
+      "container-title": "Cerâmica",
+      "volume": "56",
+      "issue": "337",
+      "page": "39–43"
+    },
+    {
+      "id": "f170_ref_017",
+      "type": "patent",
+      "title": "Process to make calcium oxide or ordinary Portland cement from calcium bearing rocks and minerals",
+      "author": [
+        {
+          "family": "Finke",
+          "given": "C. E."
+        },
+        {
+          "family": "Leandri",
+          "given": "H. F."
+        }
+      ],
+      "note": "US11718558B2, published 8 August 2023. California Institute of Technology / Brimstone Energy. Continuation of US16/992,318; paired application publication US20220411328A1. Patent disclosure. https://patents.google.com/patent/US11718558B2/en Source date qualifiers: 2023; family priority 13 August 2019.",
+      "citation-number": 17,
+      "original-reference": "[17] Finke, C. E.; Leandri, H. F. (inventors) (2023; family priority 13 August 2019). Process to make calcium oxide or ordinary Portland cement from calcium bearing rocks and minerals. US11718558B2, published 8 August 2023. California Institute of Technology / Brimstone Energy. Continuation of US16/992,318; paired application publication US20220411328A1. Patent disclosure. https://patents.google.com/patent/US11718558B2/en",
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            8
+          ]
+        ]
+      },
+      "URL": "https://patents.google.com/patent/US11718558B2/en",
+      "number": "US11718558B2"
+    },
+    {
+      "id": "f170_ref_018",
+      "type": "article-journal",
+      "title": "Silicate-derived calcium as a pathway to low-carbon Portland cement",
+      "author": [
+        {
+          "family": "Prancevic",
+          "given": "J. P."
+        },
+        {
+          "family": "Finke",
+          "given": "C. E."
+        },
+        {
+          "family": "Peterson",
+          "given": "E."
+        },
+        {
+          "family": "Nguyen",
+          "given": "W."
+        },
+        {
+          "family": "Clarens",
+          "given": "A. F."
+        },
+        {
+          "family": "Pyatina",
+          "given": "T."
+        }
+      ],
+      "note": "Communications Sustainability 1, 78. DOI: 10.1038/s44458-026-00056-4",
+      "citation-number": 18,
+      "original-reference": "[18] Prancevic, J. P.; Finke, C. E.; Peterson, E.; Nguyen, W.; Clarens, A. F.; Pyatina, T. (2026). Silicate-derived calcium as a pathway to low-carbon Portland cement. Communications Sustainability 1, 78. DOI: 10.1038/s44458-026-00056-4",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "DOI": "10.1038/s44458-026-00056-4",
+      "container-title": "Communications Sustainability",
+      "volume": "1",
+      "article-locator": "78"
+    },
+    {
+      "id": "f170_ref_019",
+      "type": "article-journal",
+      "title": "Investigating the influence of basalt as mineral admixture on hydration and microstructure formation mechanism of cement",
+      "author": [
+        {
+          "family": "Liu",
+          "given": "L."
+        },
+        {
+          "family": "Zhang",
+          "given": "Y."
+        },
+        {
+          "family": "Zhang",
+          "given": "W."
+        },
+        {
+          "family": "Liu",
+          "given": "Z."
+        },
+        {
+          "family": "Zhang",
+          "given": "L."
+        }
+      ],
+      "note": "Construction and Building Materials 48, 434–440. DOI: 10.1016/j.conbuildmat.2013.07.021 Author family/given-name authority remains unresolved; inherited Liu/Zhang forms retained, with publisher-indexed Laibao/Yunsheng variants recorded in the source registry.",
+      "citation-number": 19,
+      "original-reference": "[19] Liu, L.; Zhang, Y.; Zhang, W.; Liu, Z.; Zhang, L. (2013). Investigating the influence of basalt as mineral admixture on hydration and microstructure formation mechanism of cement. Construction and Building Materials 48, 434–440. DOI: 10.1016/j.conbuildmat.2013.07.021",
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.conbuildmat.2013.07.021",
+      "container-title": "Construction and Building Materials",
+      "volume": "48",
+      "page": "434–440"
+    },
+    {
+      "id": "f170_ref_020",
+      "type": "article-journal",
+      "title": "Bazalt tozu katkılı harçların mekanik ve geçirimlilik özeliklerinin araştırılması",
+      "author": [
+        {
+          "family": "Akyüncü",
+          "given": "V."
+        },
+        {
+          "family": "Cihan",
+          "given": "M. T."
+        }
+      ],
+      "note": "Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi 21(2), 697–707. DOI: 10.25092/baunfbed.636998",
+      "citation-number": 20,
+      "original-reference": "[20] Akyüncü, V.; Cihan, M. T. (2019). Bazalt tozu katkılı harçların mekanik ve geçirimlilik özeliklerinin araştırılması [Mechanical and permeability properties of basalt-powder mortars]. Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi 21(2), 697–707. DOI: 10.25092/baunfbed.636998",
+      "issued": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "title-translation": "Mechanical and permeability properties of basalt-powder mortars",
+      "DOI": "10.25092/baunfbed.636998",
+      "container-title": "Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi",
+      "volume": "21",
+      "issue": "2",
+      "page": "697–707"
+    },
+    {
+      "id": "f170_ref_021",
+      "type": "article-journal",
+      "title": "Investigating the Influence of Waste Basalt Powder on Selected Properties of Cement Paste and Mortar",
+      "author": [
+        {
+          "family": "Dobiszewska",
+          "given": "M."
+        },
+        {
+          "family": "Beycioğlu",
+          "given": "A."
+        }
+      ],
+      "note": "IOP Conference Series: Materials Science and Engineering 245, 022027. DOI: 10.1088/1757-899X/245/2/022027",
+      "citation-number": 21,
+      "original-reference": "[21] Dobiszewska, M.; Beycioğlu, A. (2017). Investigating the Influence of Waste Basalt Powder on Selected Properties of Cement Paste and Mortar. IOP Conference Series: Materials Science and Engineering 245, 022027. DOI: 10.1088/1757-899X/245/2/022027",
+      "issued": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "DOI": "10.1088/1757-899X/245/2/022027",
+      "container-title": "IOP Conference Series: Materials Science and Engineering",
+      "volume": "245",
+      "article-locator": "022027"
+    },
+    {
+      "id": "f170_ref_022",
+      "type": "article-journal",
+      "title": "Análise do potencial de uso do fíler basáltico como substituição parcial do cimento Portland",
+      "author": [
+        {
+          "family": "Meinhart",
+          "given": "A. H."
+        },
+        {
+          "family": "Macedo",
+          "given": "R. B."
+        },
+        {
+          "family": "Guterres",
+          "given": "T. T."
+        },
+        {
+          "family": "Arnold",
+          "given": "D. C. M."
+        }
+      ],
+      "note": "Ambiente Construído 23(4), 169–186. DOI: 10.1590/s1678-86212023000400697",
+      "citation-number": 22,
+      "original-reference": "[22] Meinhart, A. H.; Macedo, R. B.; Guterres, T. T.; Arnold, D. C. M. (2023). Análise do potencial de uso do fíler basáltico como substituição parcial do cimento Portland [Potential use of basaltic filler as partial Portland-cement replacement]. Ambiente Construído 23(4), 169–186. DOI: 10.1590/s1678-86212023000400697",
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "title-translation": "Potential use of basaltic filler as partial Portland-cement replacement",
+      "DOI": "10.1590/s1678-86212023000400697",
+      "container-title": "Ambiente Construído",
+      "volume": "23",
+      "issue": "4",
+      "page": "169–186"
+    },
+    {
+      "id": "f170_ref_023",
+      "type": "article-journal",
+      "title": "Physical Properties and Microstructure of Concrete with Waste Basalt Powder Addition",
+      "author": [
+        {
+          "family": "Dobiszewska",
+          "given": "M."
+        },
+        {
+          "family": "Beycioğlu",
+          "given": "A."
+        }
+      ],
+      "note": "Materials 13(16), 3503. DOI: 10.3390/ma13163503",
+      "citation-number": 23,
+      "original-reference": "[23] Dobiszewska, M.; Beycioğlu, A. (2020). Physical Properties and Microstructure of Concrete with Waste Basalt Powder Addition. Materials 13(16), 3503. DOI: 10.3390/ma13163503",
+      "issued": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma13163503",
+      "container-title": "Materials",
+      "volume": "13",
+      "issue": "16",
+      "article-locator": "3503"
+    },
+    {
+      "id": "f170_ref_024",
+      "type": "article-journal",
+      "title": "Zastosowanie pyłu bazaltowego, jako substytutu piasku w zaprawie i betonie cementowym",
+      "author": [
+        {
+          "family": "Dobiszewska",
+          "given": "M."
+        }
+      ],
+      "note": "Budownictwo i Architektura 15(4), 75–85. DOI: 10.24358/Bud-Arch_16_154_08",
+      "citation-number": 24,
+      "original-reference": "[24] Dobiszewska, M. (2016). Zastosowanie pyłu bazaltowego, jako substytutu piasku w zaprawie i betonie cementowym [Basalt dust as a sand substitute in mortar and concrete]. Budownictwo i Architektura 15(4), 75–85. DOI: 10.24358/Bud-Arch_16_154_08",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "title-translation": "Basalt dust as a sand substitute in mortar and concrete",
+      "DOI": "10.24358/Bud-Arch_16_154_08",
+      "container-title": "Budownictwo i Architektura",
+      "volume": "15",
+      "issue": "4",
+      "page": "75–85"
+    },
+    {
+      "id": "f170_ref_025",
+      "type": "article-journal",
+      "title": "Basalt powder as a supplementary cementitious material in cement paste for CCS wells: chemical and mechanical resistance of cement formulations for CO2 geological storage sites",
+      "author": [
+        {
+          "family": "Ponzi",
+          "given": "G. G. D."
+        },
+        {
+          "family": "Santos",
+          "given": "V. H. J. M. dos"
+        },
+        {
+          "family": "Martel",
+          "given": "R. B."
+        },
+        {
+          "family": "Pontin",
+          "given": "D."
+        },
+        {
+          "family": "Stepanha",
+          "given": "A. S. de G. e"
+        },
+        {
+          "family": "Schütz",
+          "given": "M. K."
+        },
+        {
+          "family": "Menezes",
+          "given": "S. C."
+        },
+        {
+          "family": "Einloft",
+          "given": "S. M. O."
+        },
+        {
+          "family": "Dalla Vecchia",
+          "given": "F."
+        }
+      ],
+      "note": "International Journal of Greenhouse Gas Control 109, 103337. DOI: 10.1016/j.ijggc.2021.103337",
+      "citation-number": 25,
+      "original-reference": "[25] Ponzi, G. G. D.; Santos, V. H. J. M. dos; Martel, R. B.; Pontin, D.; Stepanha, A. S. de G. e; Schütz, M. K.; Menezes, S. C.; Einloft, S. M. O.; Dalla Vecchia, F. (2021). Basalt powder as a supplementary cementitious material in cement paste for CCS wells: chemical and mechanical resistance of cement formulations for CO2 geological storage sites. International Journal of Greenhouse Gas Control 109, 103337. DOI: 10.1016/j.ijggc.2021.103337",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.ijggc.2021.103337",
+      "container-title": "International Journal of Greenhouse Gas Control",
+      "volume": "109",
+      "article-locator": "103337"
+    },
+    {
+      "id": "f170_ref_026",
+      "type": "article-journal",
+      "title": "Alkali-Activation of Synthetic Aluminosilicate Glass With Basaltic Composition",
+      "author": [
+        {
+          "family": "Alzeer",
+          "given": "M. I. M."
+        },
+        {
+          "family": "Nguyen",
+          "given": "H."
+        },
+        {
+          "family": "Cheeseman",
+          "given": "C."
+        },
+        {
+          "family": "Kinnunen",
+          "given": "P."
+        }
+      ],
+      "note": "Frontiers in Chemistry 9, 715052. DOI: 10.3389/fchem.2021.715052",
+      "citation-number": 26,
+      "original-reference": "[26] Alzeer, M. I. M.; Nguyen, H.; Cheeseman, C.; Kinnunen, P. (2021). Alkali-Activation of Synthetic Aluminosilicate Glass With Basaltic Composition. Frontiers in Chemistry 9, 715052. DOI: 10.3389/fchem.2021.715052",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.3389/fchem.2021.715052",
+      "container-title": "Frontiers in Chemistry",
+      "volume": "9",
+      "article-locator": "715052"
+    },
+    {
+      "id": "f170_ref_027",
+      "type": "article-journal",
+      "title": "Egyptian basalt powder as a fortifier for improved performance and sustainability of alkali-activated slag cement",
+      "author": [
+        {
+          "family": "Rashad",
+          "given": "A. M."
+        },
+        {
+          "family": "El-Nashar",
+          "given": "M. H."
+        },
+        {
+          "family": "Hussien",
+          "given": "O. F."
+        },
+        {
+          "family": "Mohamed",
+          "given": "R. A.-E."
+        }
+      ],
+      "note": "Scientific Reports 15, 37946. DOI: 10.1038/s41598-025-19434-4",
+      "citation-number": 27,
+      "original-reference": "[27] Rashad, A. M.; El-Nashar, M. H.; Hussien, O. F.; Mohamed, R. A.-E. (2025). Egyptian basalt powder as a fortifier for improved performance and sustainability of alkali-activated slag cement. Scientific Reports 15, 37946. DOI: 10.1038/s41598-025-19434-4",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.1038/s41598-025-19434-4",
+      "container-title": "Scientific Reports",
+      "volume": "15",
+      "article-locator": "37946"
+    },
+    {
+      "id": "f170_ref_028",
+      "type": "article-journal",
+      "title": "Effects of alternative ecological fillers on the mechanical, durability, and microstructure of fly ash-based geopolymer mortar",
+      "author": [
+        {
+          "family": "Tammam",
+          "given": "Y."
+        },
+        {
+          "family": "Uysal",
+          "given": "M."
+        },
+        {
+          "family": "Canpolat",
+          "given": "O."
+        }
+      ],
+      "note": "European Journal of Environmental and Civil Engineering 26(12), 5877–5900. DOI: 10.1080/19648189.2021.1925157 Source date qualifiers: 2022; online 2021.",
+      "citation-number": 28,
+      "original-reference": "[28] Tammam, Y.; Uysal, M.; Canpolat, O. (2022; online 2021). Effects of alternative ecological fillers on the mechanical, durability, and microstructure of fly ash-based geopolymer mortar. European Journal of Environmental and Civil Engineering 26(12), 5877–5900. DOI: 10.1080/19648189.2021.1925157",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.1080/19648189.2021.1925157",
+      "container-title": "European Journal of Environmental and Civil Engineering",
+      "volume": "26",
+      "issue": "12",
+      "page": "5877–5900",
+      "available-date": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f170_ref_029",
+      "type": "article-journal",
+      "title": "Effect of Waste Filler Materials and Recycled Waste Aggregates on the Production of Geopolymer Composites",
+      "author": [
+        {
+          "family": "Tammam",
+          "given": "Y."
+        },
+        {
+          "family": "Uysal",
+          "given": "M."
+        },
+        {
+          "family": "Canpolat",
+          "given": "O."
+        },
+        {
+          "family": "Kuranlı",
+          "given": "Ö. F."
+        }
+      ],
+      "note": "Arabian Journal for Science and Engineering 48, 4823–4840. DOI: 10.1007/s13369-022-07230-5 Source date qualifiers: 2023; online 2022.",
+      "citation-number": 29,
+      "original-reference": "[29] Tammam, Y.; Uysal, M.; Canpolat, O.; Kuranlı, Ö. F. (2023; online 2022). Effect of Waste Filler Materials and Recycled Waste Aggregates on the Production of Geopolymer Composites. Arabian Journal for Science and Engineering 48, 4823–4840. DOI: 10.1007/s13369-022-07230-5",
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "DOI": "10.1007/s13369-022-07230-5",
+      "container-title": "Arabian Journal for Science and Engineering",
+      "volume": "48",
+      "page": "4823–4840",
+      "available-date": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f170_ref_030",
+      "type": "article-journal",
+      "title": "Experimental Study on Basic Mechanical Properties of Basalt Fiber Reinforced Concrete",
+      "author": [
+        {
+          "family": "Zhou",
+          "given": "H."
+        },
+        {
+          "family": "Jia",
+          "given": "B."
+        },
+        {
+          "family": "Huang",
+          "given": "H."
+        },
+        {
+          "family": "Mou",
+          "given": "Y."
+        }
+      ],
+      "note": "Materials 13(6), 1362. DOI: 10.3390/ma13061362",
+      "citation-number": 30,
+      "original-reference": "[30] Zhou, H.; Jia, B.; Huang, H.; Mou, Y. (2020). Experimental Study on Basic Mechanical Properties of Basalt Fiber Reinforced Concrete. Materials 13(6), 1362. DOI: 10.3390/ma13061362",
+      "issued": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma13061362",
+      "container-title": "Materials",
+      "volume": "13",
+      "issue": "6",
+      "article-locator": "1362"
+    },
+    {
+      "id": "f170_ref_031",
+      "type": "article-journal",
+      "title": "Aging of alkali-resistant glass and basalt fibers in alkaline solutions: Evaluation of the failure stress by Weibull distribution function",
+      "author": [
+        {
+          "family": "Scheffler",
+          "given": "C."
+        },
+        {
+          "family": "Förster",
+          "given": "T."
+        },
+        {
+          "family": "Mäder",
+          "given": "E."
+        },
+        {
+          "family": "Heinrich",
+          "given": "G."
+        },
+        {
+          "family": "Hempel",
+          "given": "S."
+        },
+        {
+          "family": "Mechtcherine",
+          "given": "V."
+        }
+      ],
+      "note": "Journal of Non-Crystalline Solids 355, 2588–2595. DOI: 10.1016/j.jnoncrysol.2009.09.018",
+      "citation-number": 31,
+      "original-reference": "[31] Scheffler, C.; Förster, T.; Mäder, E.; Heinrich, G.; Hempel, S.; Mechtcherine, V. (2009). Aging of alkali-resistant glass and basalt fibers in alkaline solutions: Evaluation of the failure stress by Weibull distribution function. Journal of Non-Crystalline Solids 355, 2588–2595. DOI: 10.1016/j.jnoncrysol.2009.09.018",
+      "issued": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jnoncrysol.2009.09.018",
+      "container-title": "Journal of Non-Crystalline Solids",
+      "volume": "355",
+      "page": "2588–2595"
+    },
+    {
+      "id": "f170_ref_032",
+      "type": "article-journal",
+      "title": "Investigation on the alkali resistance of basalt fiber and its textile in different alkaline environments",
+      "author": [
+        {
+          "family": "Wang",
+          "given": "Q."
+        },
+        {
+          "family": "Ding",
+          "given": "Y."
+        },
+        {
+          "family": "Randl",
+          "given": "N."
+        }
+      ],
+      "note": "Construction and Building Materials 272, 121670. DOI: 10.1016/j.conbuildmat.2020.121670",
+      "citation-number": 32,
+      "original-reference": "[32] Wang, Q.; Ding, Y.; Randl, N. (2021). Investigation on the alkali resistance of basalt fiber and its textile in different alkaline environments. Construction and Building Materials 272, 121670. DOI: 10.1016/j.conbuildmat.2020.121670",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.conbuildmat.2020.121670",
+      "container-title": "Construction and Building Materials",
+      "volume": "272",
+      "article-locator": "121670"
+    },
+    {
+      "id": "f170_ref_033",
+      "type": "article-journal",
+      "title": "Experimental Study and Modelling of Fresh Behaviours of Basalt Fibre-Reinforced Mortar Based on Average Water Film Thickness and Fibre Factor",
+      "author": [
+        {
+          "family": "Li",
+          "given": "L. G."
+        },
+        {
+          "family": "Ng",
+          "given": "P.-L."
+        },
+        {
+          "family": "Zeng",
+          "given": "K.-L."
+        },
+        {
+          "family": "Xie",
+          "given": "H.-Z."
+        },
+        {
+          "family": "Cheng",
+          "given": "C.-M."
+        },
+        {
+          "family": "Kwan",
+          "given": "A. K.-H."
+        }
+      ],
+      "note": "Materials 16(6), 2137. DOI: 10.3390/ma16062137",
+      "citation-number": 33,
+      "original-reference": "[33] Li, L. G.; Ng, P.-L.; Zeng, K.-L.; Xie, H.-Z.; Cheng, C.-M.; Kwan, A. K.-H. (2023). Experimental Study and Modelling of Fresh Behaviours of Basalt Fibre-Reinforced Mortar Based on Average Water Film Thickness and Fibre Factor. Materials 16(6), 2137. DOI: 10.3390/ma16062137",
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma16062137",
+      "container-title": "Materials",
+      "volume": "16",
+      "issue": "6",
+      "article-locator": "2137"
+    },
+    {
+      "id": "f170_ref_034",
+      "type": "article-journal",
+      "title": "1000℃以上の高温条件下における骨材およびモルタルの溶解挙動の基礎的検討",
+      "author": [
+        {
+          "literal": "井田宥文"
+        },
+        {
+          "literal": "Amr Meawad"
+        },
+        {
+          "literal": "栗原諒"
+        },
+        {
+          "literal": "丸山一平"
+        }
+      ],
+      "note": "セメント・コンクリート論文集 78(1), 571–578. DOI: 10.14250/cement.78.571 Volume designation 2024; J-STAGE release 31 March 2025.",
+      "citation-number": 34,
+      "original-reference": "[34] 井田宥文; Amr Meawad; 栗原諒; 丸山一平 (2025). 1000℃以上の高温条件下における骨材およびモルタルの溶解挙動の基礎的検討 [Fundamental study of aggregate and mortar melting above 1000 °C]. セメント・コンクリート論文集 78(1), 571–578. DOI: 10.14250/cement.78.571 Volume designation 2024; J-STAGE release 31 March 2025.",
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            31
+          ]
+        ]
+      },
+      "title-translation": "Fundamental study of aggregate and mortar melting above 1000 °C",
+      "DOI": "10.14250/cement.78.571",
+      "container-title": "セメント・コンクリート論文集",
+      "volume": "78",
+      "issue": "1",
+      "page": "571–578"
+    },
+    {
+      "id": "f170_ref_035",
+      "type": "thesis",
+      "title": "Étude expérimentale et numérique du comportement à haute température du béton de granulat de gneiss et basalte",
+      "author": [
+        {
+          "family": "Tiegoum Wembe",
+          "given": "J."
+        }
+      ],
+      "note": "Doctoral thesis, CY Cergy Paris Université / Université de Yaoundé I. NNT 2023CYUN1167; defended 2 March 2023. https://theses.fr/2023CYUN1167 Original full-thesis record: https://theses.hal.science/tel-04314216",
+      "citation-number": 35,
+      "original-reference": "[35] Tiegoum Wembe, J. (2023). Étude expérimentale et numérique du comportement à haute température du béton de granulat de gneiss et basalte [Experimental and numerical high-temperature behavior of gneiss- and basalt-aggregate concrete]. Doctoral thesis, CY Cergy Paris Université / Université de Yaoundé I. NNT 2023CYUN1167; defended 2 March 2023. https://theses.fr/2023CYUN1167 Original full-thesis record: https://theses.hal.science/tel-04314216",
+      "issued": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "title-translation": "Experimental and numerical high-temperature behavior of gneiss- and basalt-aggregate concrete",
+      "URL": "https://theses.fr/2023CYUN1167"
+    },
+    {
+      "id": "f170_ref_036",
+      "type": "article-journal",
+      "title": "玄武岩繊維強化コンクリートの強度評価（テストピース製作方法と強度試験方法）",
+      "author": [
+        {
+          "literal": "西野義則"
+        },
+        {
+          "literal": "辰巳泰我"
+        },
+        {
+          "literal": "倉敷哲生"
+        },
+        {
+          "literal": "田村進一"
+        }
+      ],
+      "note": "GPI Journal 11(1), 10–13. DOI: 10.24570/gpijournal.11.1_10",
+      "citation-number": 36,
+      "original-reference": "[36] 西野義則; 辰巳泰我; 倉敷哲生; 田村進一 (Nishino, Y.; Tatsumi, T.; Kurashiki, T.; Tamura, S.) (2025). 玄武岩繊維強化コンクリートの強度評価（テストピース製作方法と強度試験方法） [Strength evaluation of basalt fiber reinforced concrete (Test Piece Fabrication Method and Strength Test Method)]. GPI Journal 11(1), 10–13. DOI: 10.24570/gpijournal.11.1_10",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "title-translation": "Strength evaluation of basalt fiber reinforced concrete (Test Piece Fabrication Method and Strength Test Method)",
+      "DOI": "10.24570/gpijournal.11.1_10",
+      "container-title": "GPI Journal",
+      "volume": "11",
+      "issue": "1",
+      "page": "10–13"
+    },
+    {
+      "id": "f170_ref_037",
+      "type": "patent",
+      "title": "Trefolo composito in fibre di vetro e/o basalto per cemento precompresso",
+      "author": [
+        {
+          "family": "Nanni",
+          "given": "A."
+        },
+        {
+          "family": "Arduini",
+          "given": "M."
+        },
+        {
+          "family": "Bruschi",
+          "given": "F."
+        },
+        {
+          "family": "Balconi",
+          "given": "G."
+        }
+      ],
+      "note": "IT201800002988A1. Patent disclosure; related WO2019162390 and EP3755525 grouped as one lineage. https://patents.google.com/patent/IT201800002988A1/it Source date qualifiers: 2019; priority 23 February 2018.",
+      "citation-number": 37,
+      "original-reference": "[37] Nanni, A.; Arduini, M.; Bruschi, F.; Balconi, G. (inventors) (2019; priority 23 February 2018). Trefolo composito in fibre di vetro e/o basalto per cemento precompresso [Composite glass/basalt strand for prestressed concrete]. IT201800002988A1. Patent disclosure; related WO2019162390 and EP3755525 grouped as one lineage. https://patents.google.com/patent/IT201800002988A1/it",
+      "issued": {
+        "date-parts": [
+          [
+            2019
+          ]
+        ]
+      },
+      "title-translation": "Composite glass/basalt strand for prestressed concrete",
+      "URL": "https://patents.google.com/patent/IT201800002988A1/it",
+      "number": "IT201800002988A1"
+    },
+    {
+      "id": "f170_ref_038",
+      "type": "patent",
+      "title": "Hormigón reforzado",
+      "author": [
+        {
+          "family": "Mateu Serraviñals",
+          "given": "I."
+        }
+      ],
+      "note": "ES2551762A1, published 23 November 2015. Patent disclosure. https://patents.google.com/patent/ES2551762A1/es Source date qualifiers: 2015; priority 21 May 2014.",
+      "citation-number": 38,
+      "original-reference": "[38] Mateu Serraviñals, I. (inventor) (2015; priority 21 May 2014). Hormigón reforzado [Reinforced concrete]. ES2551762A1, published 23 November 2015. Patent disclosure. https://patents.google.com/patent/ES2551762A1/es",
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            23
+          ]
+        ]
+      },
+      "title-translation": "Reinforced concrete",
+      "URL": "https://patents.google.com/patent/ES2551762A1/es",
+      "number": "ES2551762A1"
+    },
+    {
+      "id": "f170_ref_039",
+      "type": "patent",
+      "title": "폐 석재를 이용한 콘크리트 보도블록 및 그 제조방법",
+      "author": [
+        {
+          "literal": "오인하"
+        },
+        {
+          "literal": "홍종현"
+        }
+      ],
+      "note": "KR100754910B1, published 3 September 2007; filed 10 October 2006. Patent disclosure. https://patents.google.com/patent/KR100754910B1/ko",
+      "citation-number": 39,
+      "original-reference": "[39] 오인하; 홍종현 (inventors) (2007). 폐 석재를 이용한 콘크리트 보도블록 및 그 제조방법 [Concrete paving blocks using waste stone and their manufacture]. KR100754910B1, published 3 September 2007; filed 10 October 2006. Patent disclosure. https://patents.google.com/patent/KR100754910B1/ko",
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            9,
+            3
+          ]
+        ]
+      },
+      "title-translation": "Concrete paving blocks using waste stone and their manufacture",
+      "URL": "https://patents.google.com/patent/KR100754910B1/ko",
+      "number": "KR100754910B1"
+    },
+    {
+      "id": "f170_ref_040",
+      "type": "patent",
+      "title": "Stoffmischung zur Herstellung von Leichtbeton",
+      "author": [
+        {
+          "family": "Horn",
+          "given": "H."
+        }
+      ],
+      "note": "DE10111016A1, published 26 September 2002. Patent disclosure. https://patents.google.com/patent/DE10111016A1/de",
+      "citation-number": 40,
+      "original-reference": "[40] Horn, H. (inventor) (2002). Stoffmischung zur Herstellung von Leichtbeton [Mixture for producing lightweight concrete]. DE10111016A1, published 26 September 2002. Patent disclosure. https://patents.google.com/patent/DE10111016A1/de",
+      "issued": {
+        "date-parts": [
+          [
+            2002,
+            9,
+            26
+          ]
+        ]
+      },
+      "title-translation": "Mixture for producing lightweight concrete",
+      "URL": "https://patents.google.com/patent/DE10111016A1/de",
+      "number": "DE10111016A1"
+    },
+    {
+      "id": "f170_ref_041",
+      "type": "patent",
+      "title": "Бетонная смесь",
+      "author": [
+        {
+          "family": "Краснов",
+          "given": "А. М."
+        }
+      ],
+      "note": "SU897745A1, published 15 January 1982; description bears 17 January 1982. Patent disclosure. https://patents.google.com/patent/SU897745A1/ru Source date qualifiers: 1982; filed 28 March 1980.",
+      "citation-number": 41,
+      "original-reference": "[41] Краснов, А. М. [Anatoliy Mitrofanovich Krasnov] (inventor) (1982; filed 28 March 1980). Бетонная смесь [Concrete mix]. SU897745A1, published 15 January 1982; description bears 17 January 1982. Patent disclosure. https://patents.google.com/patent/SU897745A1/ru",
+      "issued": {
+        "date-parts": [
+          [
+            1982,
+            1,
+            15
+          ]
+        ]
+      },
+      "title-translation": "Concrete mix",
+      "URL": "https://patents.google.com/patent/SU897745A1/ru",
+      "number": "SU897745A1"
+    },
+    {
+      "id": "f170_ref_042",
+      "type": "patent",
+      "title": "掺活性混合材料水泥的生产方法",
+      "author": [
+        {
+          "literal": "陶文达"
+        },
+        {
+          "literal": "马维学"
+        },
+        {
+          "literal": "唐维府"
+        },
+        {
+          "literal": "刘方敏"
+        }
+      ],
+      "note": "CN1092391A, published 21 September 1994. Baita Cement Works of Lianyungang City. Patent disclosure. https://patents.google.com/patent/CN1092391A/zh",
+      "citation-number": 42,
+      "original-reference": "[42] 陶文达; 马维学; 唐维府; 刘方敏 (inventors) (1994). 掺活性混合材料水泥的生产方法 [Production of cement with active blending materials]. CN1092391A, published 21 September 1994. Baita Cement Works of Lianyungang City. Patent disclosure. https://patents.google.com/patent/CN1092391A/zh",
+      "issued": {
+        "date-parts": [
+          [
+            1994,
+            9,
+            21
+          ]
+        ]
+      },
+      "title-translation": "Production of cement with active blending materials",
+      "URL": "https://patents.google.com/patent/CN1092391A/zh",
+      "number": "CN1092391A"
+    },
+    {
+      "id": "f170_ref_043",
+      "type": "patent",
+      "title": "一种掺合料及其制备方法及由其制备的混凝土",
+      "author": [
+        {
+          "literal": "谭云松"
+        },
+        {
+          "literal": "张凡"
+        }
+      ],
+      "note": "CN104844111A (19 August 2015) / CN104844111B (24 August 2016). One patent family. https://patents.google.com/patent/CN104844111B/zh Source date qualifiers: 2015/2016.",
+      "citation-number": 43,
+      "original-reference": "[43] 谭云松; 张凡 (inventors) (2015/2016). 一种掺合料及其制备方法及由其制备的混凝土 [Admixture, preparation method and concrete made from it] / 一种掺合料及由其制备的混凝土 [Admixture and concrete made from it]. CN104844111A (19 August 2015) / CN104844111B (24 August 2016). One patent family. https://patents.google.com/patent/CN104844111B/zh",
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            8,
+            19
+          ]
+        ]
+      },
+      "title-translation": "Admixture, preparation method and concrete made from it",
+      "URL": "https://patents.google.com/patent/CN104844111A/zh",
+      "number": "CN104844111A"
+    },
+    {
+      "id": "f170_ref_044",
+      "type": "report",
+      "title": "Cement materials and industry of the United States",
+      "author": [
+        {
+          "family": "Eckel",
+          "given": "E. C."
+        }
+      ],
+      "note": "U.S. Geological Survey Bulletin 243. DOI: 10.3133/b243",
+      "citation-number": 44,
+      "original-reference": "[44] Eckel, E. C. (1905). Cement materials and industry of the United States. U.S. Geological Survey Bulletin 243. DOI: 10.3133/b243",
+      "issued": {
+        "date-parts": [
+          [
+            1905
+          ]
+        ]
+      },
+      "DOI": "10.3133/b243"
+    },
+    {
+      "id": "f170_ref_045",
+      "type": "report",
+      "title": "Volcanic Ash Resources of Kansas",
+      "author": [
+        {
+          "literal": "Kansas Geological Survey"
+        }
+      ],
+      "note": "Bulletin 14: county distribution, technology and uses. https://www.kgs.ku.edu/Publications/Bulletins/14/02_counties.html",
+      "citation-number": 45,
+      "original-reference": "[45] Kansas Geological Survey (1928). Volcanic Ash Resources of Kansas, Bulletin 14: county distribution, technology and uses. https://www.kgs.ku.edu/Publications/Bulletins/14/02_counties.html",
+      "issued": {
+        "date-parts": [
+          [
+            1928
+          ]
+        ]
+      },
+      "URL": "https://www.kgs.ku.edu/Publications/Bulletins/14/02_counties.html",
+      "number": "14"
+    },
+    {
+      "id": "f170_ref_046",
+      "type": "standard",
+      "title": "ASTM C1897-20: Standard Test Methods for Measuring the Reactivity of Supplementary Cementitious Materials by Isothermal Calorimetry and Bound Water Measurements",
+      "author": [
+        {
+          "literal": "ASTM International"
+        }
+      ],
+      "note": "DOI: 10.1520/C1897-20 https://store.astm.org/c1897-20.html",
+      "citation-number": 46,
+      "original-reference": "[46] ASTM International (2020). ASTM C1897-20: Standard Test Methods for Measuring the Reactivity of Supplementary Cementitious Materials by Isothermal Calorimetry and Bound Water Measurements. DOI: 10.1520/C1897-20 https://store.astm.org/c1897-20.html",
+      "issued": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "DOI": "10.1520/C1897-20",
+      "URL": "https://store.astm.org/c1897-20.html"
+    },
+    {
+      "id": "f170_ref_047",
+      "type": "standard",
+      "title": "ASTM C618-26: Standard Specification for Coal Ash and Raw or Calcined Natural Pozzolan for Use in Concrete",
+      "author": [
+        {
+          "literal": "ASTM International"
+        }
+      ],
+      "note": "DOI: 10.1520/C0618-26 https://store.astm.org/c0618-26.html",
+      "citation-number": 47,
+      "original-reference": "[47] ASTM International (2026). ASTM C618-26: Standard Specification for Coal Ash and Raw or Calcined Natural Pozzolan for Use in Concrete. DOI: 10.1520/C0618-26 https://store.astm.org/c0618-26.html",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "DOI": "10.1520/C0618-26",
+      "URL": "https://store.astm.org/c0618-26.html"
+    },
+    {
+      "id": "f170_ref_048",
+      "type": "webpage",
+      "title": "CX-033529: The Deeply Decarbonized Cement Project – Phase 1",
+      "author": [
+        {
+          "literal": "U.S. Department of Energy, Office of NEPA Policy and Compliance"
+        }
+      ],
+      "note": "Portal date 16 October 2024. https://www.energy.gov/nepa/articles/cx-033529-deeply-decarbonized-cement-project-phase-1 Determination: https://www.energy.gov/sites/default/files/2025-04/CX-033529.pdf",
+      "citation-number": 48,
+      "original-reference": "[48] U.S. Department of Energy, Office of NEPA Policy and Compliance (2024). CX-033529: The Deeply Decarbonized Cement Project – Phase 1. Portal date 16 October 2024. https://www.energy.gov/nepa/articles/cx-033529-deeply-decarbonized-cement-project-phase-1 Determination: https://www.energy.gov/sites/default/files/2025-04/CX-033529.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            16
+          ]
+        ]
+      },
+      "URL": "https://www.energy.gov/nepa/articles/cx-033529-deeply-decarbonized-cement-project-phase-1"
+    },
+    {
+      "id": "f170_ref_049",
+      "type": "article-journal",
+      "title": "Alkali-silica reaction in volcanic rocks: a worldwide comparative approach",
+      "author": [
+        {
+          "family": "Medeiros",
+          "given": "S."
+        },
+        {
+          "family": "Fernandes",
+          "given": "I."
+        },
+        {
+          "family": "Fournier",
+          "given": "B."
+        },
+        {
+          "family": "Nunes",
+          "given": "J. C."
+        },
+        {
+          "family": "Santos-Silva",
+          "given": "A."
+        },
+        {
+          "family": "Ramos",
+          "given": "V."
+        },
+        {
+          "family": "Soares",
+          "given": "D."
+        }
+      ],
+      "note": "Materiales de Construcción 72(346), e278. DOI: 10.3989/mc.2022.16221",
+      "citation-number": 49,
+      "original-reference": "[49] Medeiros, S.; Fernandes, I.; Fournier, B.; Nunes, J. C.; Santos-Silva, A.; Ramos, V.; Soares, D. (2022). Alkali-silica reaction in volcanic rocks: a worldwide comparative approach. Materiales de Construcción 72(346), e278. DOI: 10.3989/mc.2022.16221",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.3989/mc.2022.16221",
+      "container-title": "Materiales de Construcción",
+      "volume": "72",
+      "issue": "346",
+      "article-locator": "e278"
+    },
+    {
+      "id": "f170_ref_050",
+      "type": "thesis",
+      "title": "Viabilidade técnica da adição de finos de basalto à pasta de cimento Portland",
+      "author": [
+        {
+          "family": "Guerra",
+          "given": "L."
+        }
+      ],
+      "note": "Master's dissertation, Universidade Estadual de Londrina, Londrina, Brazil; defended 14 February 2013. https://repositorio.uel.br/items/d8581283-ffae-46e4-9a85-7b8b530ecce0/full",
+      "citation-number": 50,
+      "original-reference": "[50] Guerra, L. (2013). Viabilidade técnica da adição de finos de basalto à pasta de cimento Portland [Technical feasibility of adding basalt fines to Portland-cement paste]. Master's dissertation, Universidade Estadual de Londrina, Londrina, Brazil; defended 14 February 2013. https://repositorio.uel.br/items/d8581283-ffae-46e4-9a85-7b8b530ecce0/full",
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "title-translation": "Technical feasibility of adding basalt fines to Portland-cement paste",
+      "URL": "https://repositorio.uel.br/items/d8581283-ffae-46e4-9a85-7b8b530ecce0/full"
+    },
+    {
+      "id": "f170_ref_051",
+      "type": "report",
+      "title": "Einfluss freisetzbarer Alkalien aus Gesteinskörnungen auf eine schädigende Alkali-Kieselsäure-Reaktion in Beton",
+      "author": [
+        {
+          "literal": "VDZ Technology gGmbH"
+        }
+      ],
+      "note": "IGF 21386 N. https://www.vdz-online.de/wissensportal/forschungsprojekte/einfluss-freisetzbarer-alkalien-aus-gesteinskoernungen-auf-eine-schaedigende-alkali-kieselsaeure-reaktion-in-beton Source date qualifiers: project period 2020–2024; undated online summary.",
+      "citation-number": 51,
+      "original-reference": "[51] VDZ Technology gGmbH (project period 2020–2024; undated online summary). Einfluss freisetzbarer Alkalien aus Gesteinskörnungen auf eine schädigende Alkali-Kieselsäure-Reaktion in Beton [Influence of releasable alkalis from aggregates on damaging alkali–silica reaction in concrete]. IGF 21386 N. https://www.vdz-online.de/wissensportal/forschungsprojekte/einfluss-freisetzbarer-alkalien-aus-gesteinskoernungen-auf-eine-schaedigende-alkali-kieselsaeure-reaktion-in-beton",
+      "project-period": "2020–2024",
+      "title-translation": "Influence of releasable alkalis from aggregates on damaging alkali–silica reaction in concrete",
+      "URL": "https://www.vdz-online.de/wissensportal/forschungsprojekte/einfluss-freisetzbarer-alkalien-aus-gesteinskoernungen-auf-eine-schaedigende-alkali-kieselsaeure-reaktion-in-beton"
+    },
+    {
+      "id": "f170_ref_052",
+      "type": "report",
+      "title": "Verhalten verschiedener Gesteine unter beschleunigten Bedingungen in AKR-Prüfverfahren",
+      "author": [
+        {
+          "literal": "VDZ gGmbH"
+        },
+        {
+          "literal": "Bauhaus-Universität Weimar, F. A. Finger-Institut für Baustoffkunde"
+        },
+        {
+          "literal": "Technische Universität München, Centrum Baustoffe und Materialprüfung"
+        }
+      ],
+      "note": "IGF 19077 BG, six-page research-results report. https://www.vdz-online.de/fileadmin/wissensportal/publikationen/forschungsergebnisse/IGF_19077BG.pdf Source date qualifiers: undated; project period 2016–2019.",
+      "citation-number": 52,
+      "original-reference": "[52] VDZ gGmbH; Bauhaus-Universität Weimar, F. A. Finger-Institut für Baustoffkunde; Technische Universität München, Centrum Baustoffe und Materialprüfung (undated; project period 2016–2019). Verhalten verschiedener Gesteine unter beschleunigten Bedingungen in AKR-Prüfverfahren [Behavior of different rocks under accelerated conditions in ASR test methods]. IGF 19077 BG, six-page research-results report. https://www.vdz-online.de/fileadmin/wissensportal/publikationen/forschungsergebnisse/IGF_19077BG.pdf",
+      "title-translation": "Behavior of different rocks under accelerated conditions in ASR test methods",
+      "URL": "https://www.vdz-online.de/fileadmin/wissensportal/publikationen/forschungsergebnisse/IGF_19077BG.pdf",
+      "project-period": "2016–2019"
+    },
+    {
+      "id": "f170_ref_053",
+      "type": "article-journal",
+      "title": "바잘트 섬유보강 모르타르의 하이볼륨 플라이애시 적용에 따른 기초 품질 특성에 관한 실험적 연구",
+      "author": [
+        {
+          "literal": "최연왕"
+        },
+        {
+          "literal": "오성록"
+        },
+        {
+          "literal": "최병걸"
+        }
+      ],
+      "note": "Journal of the Korea Concrete Institute 28(4), 387–394. DOI: 10.4334/JKCI.2016.28.4.387 http://www.jkci.or.kr/jkci/XmlViewer/f341993",
+      "citation-number": 53,
+      "original-reference": "[53] 최연왕 [Choi, Y.-W.]; 오성록 [Oh, S.-R.]; 최병걸 [Choi, B. K.] (2016). 바잘트 섬유보강 모르타르의 하이볼륨 플라이애시 적용에 따른 기초 품질 특성에 관한 실험적 연구 [An Experimental Study on Fundamental Quality Properties of Basalt Fiber Reinforced Mortar according to Application of High Volume Fly Ash]. Journal of the Korea Concrete Institute 28(4), 387–394. DOI: 10.4334/JKCI.2016.28.4.387 http://www.jkci.or.kr/jkci/XmlViewer/f341993",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "title-translation": "An Experimental Study on Fundamental Quality Properties of Basalt Fiber Reinforced Mortar according to Application of High Volume Fly Ash",
+      "DOI": "10.4334/JKCI.2016.28.4.387",
+      "URL": "http://www.jkci.or.kr/jkci/XmlViewer/f341993",
+      "container-title": "Journal of the Korea Concrete Institute",
+      "volume": "28",
+      "issue": "4",
+      "page": "387–394"
+    },
+    {
+      "id": "f170_ref_054",
+      "type": "article-journal",
+      "title": "Mechanical Properties of Basalt-Based Recycled Aggregate Concrete for Jeju Island",
+      "author": [
+        {
+          "family": "Choi",
+          "given": "H.-B."
+        },
+        {
+          "family": "Park",
+          "given": "J.-O."
+        },
+        {
+          "family": "Kim",
+          "given": "T.-H."
+        },
+        {
+          "family": "Lee",
+          "given": "K.-R."
+        }
+      ],
+      "note": "Materials 14(18), 5429. DOI: 10.3390/ma14185429 https://pmc.ncbi.nlm.nih.gov/articles/PMC8470170/",
+      "citation-number": 54,
+      "original-reference": "[54] Choi, H.-B.; Park, J.-O.; Kim, T.-H.; Lee, K.-R. (2021). Mechanical Properties of Basalt-Based Recycled Aggregate Concrete for Jeju Island. Materials 14(18), 5429. DOI: 10.3390/ma14185429 https://pmc.ncbi.nlm.nih.gov/articles/PMC8470170/",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma14185429",
+      "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8470170/",
+      "container-title": "Materials",
+      "volume": "14",
+      "issue": "18",
+      "article-locator": "5429"
+    },
+    {
+      "id": "f170_ref_055",
+      "type": "article-journal",
+      "title": "Study on Mechanical Properties of Concrete Using Basalt-Based Recycled Aggregate and Varying Curing Conditions",
+      "author": [
+        {
+          "family": "Choi",
+          "given": "H.-B."
+        },
+        {
+          "family": "Park",
+          "given": "J.-O."
+        }
+      ],
+      "note": "Materials 15(13), 4563. DOI: 10.3390/ma15134563 https://pmc.ncbi.nlm.nih.gov/articles/PMC9267599/",
+      "citation-number": 55,
+      "original-reference": "[55] Choi, H.-B.; Park, J.-O. (2022). Study on Mechanical Properties of Concrete Using Basalt-Based Recycled Aggregate and Varying Curing Conditions. Materials 15(13), 4563. DOI: 10.3390/ma15134563 https://pmc.ncbi.nlm.nih.gov/articles/PMC9267599/",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma15134563",
+      "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267599/",
+      "container-title": "Materials",
+      "volume": "15",
+      "issue": "13",
+      "article-locator": "4563"
+    },
+    {
+      "id": "f170_ref_056",
+      "type": "article-magazine",
+      "title": "Drogi betonowe na Węgrzech",
+      "author": [
+        {
+          "family": "Scharroo",
+          "given": "P. W."
+        }
+      ],
+      "note": "Cement, year III, no. 1 (January), 3–6. https://jbc.bj.uj.edu.pl/Content/990047/NDIGCZAS103821_1932_001.pdf",
+      "citation-number": 56,
+      "original-reference": "[56] Scharroo, P. W. (1932). Drogi betonowe na Węgrzech [Concrete roads in Hungary]. Cement, year III, no. 1 (January), 3–6. https://jbc.bj.uj.edu.pl/Content/990047/NDIGCZAS103821_1932_001.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            1932,
+            1
+          ]
+        ]
+      },
+      "title-translation": "Concrete roads in Hungary",
+      "URL": "https://jbc.bj.uj.edu.pl/Content/990047/NDIGCZAS103821_1932_001.pdf",
+      "container-title": "Cement",
+      "volume": "III",
+      "issue": "1",
+      "page": "3–6"
+    },
+    {
+      "id": "f170_ref_057",
+      "type": "paper-conference",
+      "title": "Pavimentos de hormigón elaborados con agregados basálticos y afectados por reacción álcali sílice (RAS). Casos de estudio",
+      "author": [
+        {
+          "family": "Maiza",
+          "given": "P."
+        },
+        {
+          "family": "Marfil",
+          "given": "S."
+        },
+        {
+          "family": "Rocco",
+          "given": "C."
+        },
+        {
+          "family": "Fava",
+          "given": "C."
+        },
+        {
+          "family": "Tobes",
+          "given": "J."
+        }
+      ],
+      "note": "I Congreso Hormigón Premezclado de las Américas / XII Congreso Iberoamericano del Hormigón Premezclado / IV Congreso Internacional de Tecnología del Hormigón / 18ª Reunión Técnica AATH, Mar del Plata, 12 pp. https://digital.cic.gba.gob.ar/server/api/core/bitstreams/5121676e-dcf0-4231-a5b1-1a76015820bb/content",
+      "citation-number": 57,
+      "original-reference": "[57] Maiza, P.; Marfil, S.; Rocco, C.; Fava, C.; Tobes, J. (2010). Pavimentos de hormigón elaborados con agregados basálticos y afectados por reacción álcali sílice (RAS). Casos de estudio [Basalt-aggregate concrete pavements affected by alkali–silica reaction: case studies]. I Congreso Hormigón Premezclado de las Américas / XII Congreso Iberoamericano del Hormigón Premezclado / IV Congreso Internacional de Tecnología del Hormigón / 18ª Reunión Técnica AATH, Mar del Plata, 12 pp. https://digital.cic.gba.gob.ar/server/api/core/bitstreams/5121676e-dcf0-4231-a5b1-1a76015820bb/content",
+      "issued": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "URL": "https://digital.cic.gba.gob.ar/server/api/core/bitstreams/5121676e-dcf0-4231-a5b1-1a76015820bb/content",
+      "title-translation": "Basalt-aggregate concrete pavements affected by alkali–silica reaction: case studies"
+    },
+    {
+      "id": "f170_ref_058",
+      "type": "thesis",
+      "title": "Attività sperimentale su materiali ecosostenibili fibrorinforzati con tessuti a base di fibre di basalto per applicazioni civili",
+      "author": [
+        {
+          "family": "Pirri",
+          "given": "A."
+        }
+      ],
+      "note": "Laurea magistrale thesis, Università di Bologna; defended 14 February 2012. https://amslaurea.unibo.it/3021/",
+      "citation-number": 58,
+      "original-reference": "[58] Pirri, A. (2012). Attività sperimentale su materiali ecosostenibili fibrorinforzati con tessuti a base di fibre di basalto per applicazioni civili [Experimental work on basalt-textile-reinforced composite materials for civil applications]. Laurea magistrale thesis, Università di Bologna; defended 14 February 2012. https://amslaurea.unibo.it/3021/",
+      "issued": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "title-translation": "Experimental work on basalt-textile-reinforced composite materials for civil applications",
+      "URL": "https://amslaurea.unibo.it/3021/"
+    },
+    {
+      "id": "f170_ref_059",
+      "type": "article-journal",
+      "title": "Исследование композиционного материала на основе цемента",
+      "author": [
+        {
+          "family": "Тронза",
+          "given": "Е. И."
+        },
+        {
+          "family": "Тюрина",
+          "given": "С. А."
+        },
+        {
+          "family": "Дальская",
+          "given": "Г. Ю."
+        },
+        {
+          "family": "Юдин",
+          "given": "Г. А."
+        }
+      ],
+      "note": "Международный научно-исследовательский журнал [International Research Journal], no. 6 (120). DOI: 10.23670/IRJ.2022.120.6.017 https://research-journal.org/en/archive/6-120-2022-june/issledovanie-kompozicionnogo-materiala-na-osnove-cementa",
+      "citation-number": 59,
+      "original-reference": "[59] Тронза, Е. И.; Тюрина, С. А.; Дальская, Г. Ю.; Юдин, Г. А. [Tronza, E. I.; Tyurina, S. A.; Dal'skaya, G. Yu.; Yudin, G. A.] (2022). Исследование композиционного материала на основе цемента [Research of cement-based composite material]. Международный научно-исследовательский журнал [International Research Journal], no. 6 (120). DOI: 10.23670/IRJ.2022.120.6.017 https://research-journal.org/en/archive/6-120-2022-june/issledovanie-kompozicionnogo-materiala-na-osnove-cementa",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "title-translation": "Research of cement-based composite material",
+      "DOI": "10.23670/IRJ.2022.120.6.017",
+      "URL": "https://research-journal.org/en/archive/6-120-2022-june/issledovanie-kompozicionnogo-materiala-na-osnove-cementa",
+      "container-title": "Международный научно-исследовательский журнал [International Research Journal]",
+      "issue": "6 (120)"
+    },
+    {
+      "id": "f170_ref_060",
+      "type": "article-journal",
+      "title": "Reactive Powder Concrete Containing Basalt Fibers: Strength, Abrasion and Porosity",
+      "author": [
+        {
+          "family": "Grzeszczyk",
+          "given": "S."
+        },
+        {
+          "family": "Matuszek-Chmurowska",
+          "given": "A."
+        },
+        {
+          "family": "Vejmelková",
+          "given": "E."
+        },
+        {
+          "family": "Černý",
+          "given": "R."
+        }
+      ],
+      "note": "Materials 13(13), 2948. DOI: 10.3390/ma13132948 https://pmc.ncbi.nlm.nih.gov/articles/PMC7372488/",
+      "citation-number": 60,
+      "original-reference": "[60] Grzeszczyk, S.; Matuszek-Chmurowska, A.; Vejmelková, E.; Černý, R. (2020). Reactive Powder Concrete Containing Basalt Fibers: Strength, Abrasion and Porosity. Materials 13(13), 2948. DOI: 10.3390/ma13132948 https://pmc.ncbi.nlm.nih.gov/articles/PMC7372488/",
+      "issued": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "DOI": "10.3390/ma13132948",
+      "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7372488/",
+      "container-title": "Materials",
+      "volume": "13",
+      "issue": "13",
+      "article-locator": "2948"
+    },
+    {
+      "id": "f170_ref_061",
+      "type": "article-journal",
+      "title": "Use of Basalt Powder to Replace Cement in 3D-Printed Concrete",
+      "author": [
+        {
+          "family": "Daungwilailuk",
+          "given": "T."
+        },
+        {
+          "family": "Pansuk",
+          "given": "W."
+        }
+      ],
+      "note": "Journal of Materials in Civil Engineering 38(9). DOI: 10.1061/JMCEE7.MTENG-22215 https://doi.org/10.1061/JMCEE7.MTENG-22215",
+      "citation-number": 61,
+      "original-reference": "[61] Daungwilailuk, T.; Pansuk, W. (2026). Use of Basalt Powder to Replace Cement in 3D-Printed Concrete. Journal of Materials in Civil Engineering 38(9). DOI: 10.1061/JMCEE7.MTENG-22215 https://doi.org/10.1061/JMCEE7.MTENG-22215",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "DOI": "10.1061/JMCEE7.MTENG-22215",
+      "URL": "https://doi.org/10.1061/JMCEE7.MTENG-22215",
+      "container-title": "Journal of Materials in Civil Engineering",
+      "volume": "38",
+      "issue": "9"
+    },
+    {
+      "id": "f170_ref_062",
+      "type": "article-journal",
+      "title": "Basalt-Containing Pressed Cement Plates for Construction Systems: Technological and Toxicological Characterization",
+      "author": [
+        {
+          "family": "Silva",
+          "given": "K. R. da"
+        },
+        {
+          "family": "Jesus",
+          "given": "F. B. T. de"
+        },
+        {
+          "family": "Inocente",
+          "given": "J."
+        },
+        {
+          "family": "Arcaro",
+          "given": "S."
+        },
+        {
+          "family": "Raupp-Pereira",
+          "given": "F."
+        },
+        {
+          "family": "Montedo",
+          "given": "O. R. K."
+        }
+      ],
+      "note": "Journal of Materials in Civil Engineering 34(2). DOI: 10.1061/(ASCE)MT.1943-5533.0004078 https://doi.org/10.1061/(ASCE)MT.1943-5533.0004078 Source date qualifiers: 2022; online 25 November 2021.",
+      "citation-number": 62,
+      "original-reference": "[62] Silva, K. R. da; Jesus, F. B. T. de; Inocente, J.; Arcaro, S.; Raupp-Pereira, F.; Montedo, O. R. K. (2022; online 25 November 2021). Basalt-Containing Pressed Cement Plates for Construction Systems: Technological and Toxicological Characterization. Journal of Materials in Civil Engineering 34(2). DOI: 10.1061/(ASCE)MT.1943-5533.0004078 https://doi.org/10.1061/(ASCE)MT.1943-5533.0004078",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.1061/(ASCE)MT.1943-5533.0004078",
+      "URL": "https://doi.org/10.1061/(ASCE)MT.1943-5533.0004078",
+      "available-date": {
+        "date-parts": [
+          [
+            2021,
+            11,
+            25
+          ]
+        ]
+      },
+      "container-title": "Journal of Materials in Civil Engineering",
+      "volume": "34",
+      "issue": "2"
+    },
+    {
+      "id": "f170_ref_063",
+      "type": "article-journal",
+      "title": "Development of an eco-friendly ultra-high performance concrete based on waste basalt powder for Sichuan-Tibet Railway",
+      "author": [
+        {
+          "family": "Li",
+          "given": "Y."
+        },
+        {
+          "family": "Zeng",
+          "given": "X."
+        },
+        {
+          "family": "Zhou",
+          "given": "J."
+        },
+        {
+          "family": "Shi",
+          "given": "Y."
+        },
+        {
+          "family": "Umar",
+          "given": "H. A."
+        },
+        {
+          "family": "Long",
+          "given": "G."
+        },
+        {
+          "family": "Xie",
+          "given": "Y."
+        }
+      ],
+      "note": "Journal of Cleaner Production 312, 127775. DOI: 10.1016/j.jclepro.2021.127775 https://doi.org/10.1016/j.jclepro.2021.127775",
+      "citation-number": 63,
+      "original-reference": "[63] Li, Y.; Zeng, X.; Zhou, J.; Shi, Y.; Umar, H. A.; Long, G.; Xie, Y. (2021). Development of an eco-friendly ultra-high performance concrete based on waste basalt powder for Sichuan-Tibet Railway. Journal of Cleaner Production 312, 127775. DOI: 10.1016/j.jclepro.2021.127775 https://doi.org/10.1016/j.jclepro.2021.127775",
+      "issued": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jclepro.2021.127775",
+      "URL": "https://doi.org/10.1016/j.jclepro.2021.127775",
+      "container-title": "Journal of Cleaner Production",
+      "volume": "312",
+      "article-locator": "127775"
+    },
+    {
+      "id": "f170_ref_064",
+      "type": "thesis",
+      "title": "材料と機器の適合性を考慮した乾式吹付けコンクリートの品質管理手法に関する基礎的研究",
+      "author": [
+        {
+          "literal": "湯地 輝"
+        }
+      ],
+      "note": "Doctoral dissertation, Kagoshima University, March 2014, especially Chapter 7, pp. 99–111. https://ir.kagoshima-u.ac.jp/record/11679/files/Diss_YUJI_Hikaru_2711510097_2013.pdf",
+      "citation-number": 64,
+      "original-reference": "[64] 湯地 輝 [Yuji, H.] (2014). 材料と機器の適合性を考慮した乾式吹付けコンクリートの品質管理手法に関する基礎的研究 [Fundamental Study on Quality Control Method for Dry Mixed Shotcrete Considering Compatibility with Material and Equipment]. Doctoral dissertation, Kagoshima University, March 2014, especially Chapter 7, pp. 99–111. https://ir.kagoshima-u.ac.jp/record/11679/files/Diss_YUJI_Hikaru_2711510097_2013.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            3
+          ]
+        ]
+      },
+      "title-translation": "Fundamental Study on Quality Control Method for Dry Mixed Shotcrete Considering Compatibility with Material and Equipment",
+      "URL": "https://ir.kagoshima-u.ac.jp/record/11679/files/Diss_YUJI_Hikaru_2711510097_2013.pdf"
+    },
+    {
+      "id": "f170_ref_065",
+      "type": "article-journal",
+      "title": "ピアノ線混入BFRPシート緊張接着補強RC梁の曲げ構造性能",
+      "author": [
+        {
+          "literal": "岩下 健太郎"
+        },
+        {
+          "literal": "呉 智深"
+        },
+        {
+          "literal": "橋本 拓也"
+        },
+        {
+          "literal": "金 光男"
+        }
+      ],
+      "note": "コンクリート工学年次論文集 [Proceedings of the Japan Concrete Institute] 33(2), 1399–1404. https://data.jci-net.or.jp/data_pdf/33/033-01-2234.pdf",
+      "citation-number": 65,
+      "original-reference": "[65] 岩下 健太郎; 呉 智深; 橋本 拓也; 金 光男 (2011). ピアノ線混入BFRPシート緊張接着補強RC梁の曲げ構造性能 [Flexural structural behavior of RC beams strengthened with prestressed piano-wire/BFRP hybrid sheets]. コンクリート工学年次論文集 [Proceedings of the Japan Concrete Institute] 33(2), 1399–1404. https://data.jci-net.or.jp/data_pdf/33/033-01-2234.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "title-translation": "Flexural structural behavior of RC beams strengthened with prestressed piano-wire/BFRP hybrid sheets",
+      "URL": "https://data.jci-net.or.jp/data_pdf/33/033-01-2234.pdf",
+      "container-title": "コンクリート工学年次論文集 [Proceedings of the Japan Concrete Institute]",
+      "volume": "33",
+      "issue": "2",
+      "page": "1399–1404"
+    },
+    {
+      "id": "f170_ref_066",
+      "type": "standard",
+      "title": "GB/T 23265-2023: 水泥混凝土和砂浆用短切玄武岩纤维",
+      "author": [
+        {
+          "literal": "国家市场监督管理总局"
+        },
+        {
+          "literal": "国家标准化管理委员会"
+        }
+      ],
+      "note": "Published 23 May 2023; effective 1 December 2023; replaces GB/T 23265-2009 in full. https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4EBA6546502B62C56D52D2E37FE2F42F",
+      "citation-number": 66,
+      "original-reference": "[66] 国家市场监督管理总局; 国家标准化管理委员会 [State Administration for Market Regulation; Standardization Administration of China] (2023). GB/T 23265-2023: 水泥混凝土和砂浆用短切玄武岩纤维 [Chopped basalt fiber for cement concrete and mortar]. Published 23 May 2023; effective 1 December 2023; replaces GB/T 23265-2009 in full. https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4EBA6546502B62C56D52D2E37FE2F42F",
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            23
+          ]
+        ]
+      },
+      "title-translation": "Chopped basalt fiber for cement concrete and mortar",
+      "URL": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=4EBA6546502B62C56D52D2E37FE2F42F"
+    },
+    {
+      "id": "f170_ref_067",
+      "type": "article-journal",
+      "title": "Çimento yerine atık bazalt tozu ikamesinin betonun mekanik ve geçirgenlik özelliklerine etkisi",
+      "author": [
+        {
+          "family": "Altuncı",
+          "given": "Y. T."
+        },
+        {
+          "family": "Gençer",
+          "given": "A."
+        }
+      ],
+      "note": "Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi 10(1), 69–74. DOI: 10.62301/usmtd.1925522 https://dergipark.org.tr/tr/download/article-file/5890230",
+      "citation-number": 67,
+      "original-reference": "[67] Altuncı, Y. T.; Gençer, A. (2026). Çimento yerine atık bazalt tozu ikamesinin betonun mekanik ve geçirgenlik özelliklerine etkisi [Effect of waste basalt powder as a cement replacement on the mechanical and permeability properties of concrete]. Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi 10(1), 69–74. DOI: 10.62301/usmtd.1925522 https://dergipark.org.tr/tr/download/article-file/5890230",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "title-translation": "Effect of waste basalt powder as a cement replacement on the mechanical and permeability properties of concrete",
+      "DOI": "10.62301/usmtd.1925522",
+      "URL": "https://dergipark.org.tr/tr/download/article-file/5890230",
+      "container-title": "Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi",
+      "volume": "10",
+      "issue": "1",
+      "page": "69–74"
+    },
+    {
+      "id": "f170_ref_068",
+      "type": "article-journal",
+      "title": "Raylı sistem traverslere, bazalt tozu ilavesinin buz çözücü tuz etkisine katkısı",
+      "author": [
+        {
+          "family": "Arı",
+          "given": "K."
+        }
+      ],
+      "note": "Demiryolu Mühendisliği 16, 79–90. DOI: 10.47072/demiryolu.1114732 https://dergipark.org.tr/tr/download/article-file/2419921",
+      "citation-number": 68,
+      "original-reference": "[68] Arı, K. (2022). Raylı sistem traverslere, bazalt tozu ilavesinin buz çözücü tuz etkisine katkısı [Effect of basalt-powder addition on deicing-salt action in railway sleepers]. Demiryolu Mühendisliği 16, 79–90. DOI: 10.47072/demiryolu.1114732 https://dergipark.org.tr/tr/download/article-file/2419921",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "title-translation": "Effect of basalt-powder addition on deicing-salt action in railway sleepers",
+      "DOI": "10.47072/demiryolu.1114732",
+      "URL": "https://dergipark.org.tr/tr/download/article-file/2419921",
+      "container-title": "Demiryolu Mühendisliği",
+      "page": "79–90",
+      "issue": "16"
+    },
+    {
+      "id": "f170_ref_069",
+      "type": "thesis",
+      "title": "Estudo da utilização de pó ultrafino de basalto como adição na preparação de um cimento mitigador da reação álcali-sílica",
+      "author": [
+        {
+          "family": "Filla",
+          "given": "J. C."
+        }
+      ],
+      "note": "Master's dissertation, Universidade Estadual de Londrina; defended 18 February 2011. Especially §§6.3, 7.3–7.5. https://repositorio.uel.br/items/1832e7a4-d4f3-4ca8-a570-2aa4b691e389/full",
+      "citation-number": 69,
+      "original-reference": "[69] Filla, J. C. (2011). Estudo da utilização de pó ultrafino de basalto como adição na preparação de um cimento mitigador da reação álcali-sílica [Study of ultrafine basalt powder in a cement for mitigating alkali–silica reaction]. Master's dissertation, Universidade Estadual de Londrina; defended 18 February 2011. Especially §§6.3, 7.3–7.5. https://repositorio.uel.br/items/1832e7a4-d4f3-4ca8-a570-2aa4b691e389/full",
+      "issued": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "title-translation": "Study of ultrafine basalt powder in a cement for mitigating alkali–silica reaction",
+      "URL": "https://repositorio.uel.br/items/1832e7a4-d4f3-4ca8-a570-2aa4b691e389/full"
+    },
+    {
+      "id": "f170_ref_070",
+      "type": "article-journal",
+      "title": "Comparative study of natural and accelerated ageing of basalt fibres under alkaline and mildly acidic conditions",
+      "author": [
+        {
+          "family": "Mrduljaš",
+          "given": "B."
+        },
+        {
+          "family": "Škreb",
+          "given": "K. A."
+        },
+        {
+          "family": "Baričević",
+          "given": "A."
+        },
+        {
+          "family": "Pavunc Samaržija",
+          "given": "M."
+        },
+        {
+          "family": "Vujasinović",
+          "given": "E."
+        }
+      ],
+      "note": "Case Studies in Construction Materials 23, e05472. DOI: 10.1016/j.cscm.2025.e05472 https://www.sciencedirect.com/science/article/pii/S2214509525012707",
+      "citation-number": 70,
+      "original-reference": "[70] Mrduljaš, B.; Škreb, K. A.; Baričević, A.; Pavunc Samaržija, M.; Vujasinović, E. (2025). Comparative study of natural and accelerated ageing of basalt fibres under alkaline and mildly acidic conditions. Case Studies in Construction Materials 23, e05472. DOI: 10.1016/j.cscm.2025.e05472 https://www.sciencedirect.com/science/article/pii/S2214509525012707",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.cscm.2025.e05472",
+      "URL": "https://www.sciencedirect.com/science/article/pii/S2214509525012707",
+      "container-title": "Case Studies in Construction Materials",
+      "volume": "23",
+      "article-locator": "e05472"
+    },
+    {
+      "id": "f170_ref_071",
+      "type": "thesis",
+      "title": "Análisis de las propiedades del hormigón con resistencia Fc = 21Mpa fabricado con áridos reciclados y polvo basáltico como adición activa",
+      "author": [
+        {
+          "family": "Quile Lagua",
+          "given": "J. A."
+        }
+      ],
+      "note": "Civil engineering degree research report, Universidad Estatal del Sur de Manabí, Jipijapa, Ecuador. Supervisor Byron Baque Campozano; repository publication 23 October 2025. https://repositorio.unesum.edu.ec/handle/53000/8418",
+      "citation-number": 71,
+      "original-reference": "[71] Quile Lagua, J. A. (2025). Análisis de las propiedades del hormigón con resistencia Fc = 21Mpa fabricado con áridos reciclados y polvo basáltico como adición activa [Analysis of concrete with recycled aggregates and basalt powder as an active addition]. Civil engineering degree research report, Universidad Estatal del Sur de Manabí, Jipijapa, Ecuador. Supervisor Byron Baque Campozano; repository publication 23 October 2025. https://repositorio.unesum.edu.ec/handle/53000/8418",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "title-translation": "Analysis of concrete with recycled aggregates and basalt powder as an active addition",
+      "URL": "https://repositorio.unesum.edu.ec/handle/53000/8418"
+    },
+    {
+      "id": "f170_ref_072",
+      "type": "dataset",
+      "title": "Results for basalt powder-cement pastes testing under thermal load conditions",
+      "author": [
+        {
+          "family": "Rumiński",
+          "given": "P."
+        },
+        {
+          "family": "Szeląg",
+          "given": "M."
+        }
+      ],
+      "note": "RepOD, version 3. DOI: 10.18150/P4OURR https://doi.org/10.18150/P4OURR",
+      "citation-number": 72,
+      "original-reference": "[72] Rumiński, P.; Szeląg, M. (2025). Results for basalt powder-cement pastes testing under thermal load conditions. RepOD, version 3. DOI: 10.18150/P4OURR https://doi.org/10.18150/P4OURR",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.18150/P4OURR",
+      "URL": "https://doi.org/10.18150/P4OURR"
+    },
+    {
+      "id": "f170_ref_073",
+      "type": "article-journal",
+      "title": "Obtenção de telha prensada a base de material cimentício e pó de basalto por meio da tecnologia do pó",
+      "author": [
+        {
+          "family": "Jesus",
+          "given": "F. B. T. de"
+        },
+        {
+          "family": "Rodrigues",
+          "given": "K."
+        },
+        {
+          "family": "Inocente",
+          "given": "J."
+        },
+        {
+          "family": "Arcaro",
+          "given": "S."
+        },
+        {
+          "family": "Montedo",
+          "given": "O. R. K."
+        }
+      ],
+      "note": "Revista UNICREA 2(1), 199–223. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/download/56/67/74",
+      "citation-number": 73,
+      "original-reference": "[73] Jesus, F. B. T. de; Rodrigues, K.; Inocente, J.; Arcaro, S.; Montedo, O. R. K. (2024). Obtenção de telha prensada a base de material cimentício e pó de basalto por meio da tecnologia do pó [Obtaining pressed roof tiles from cementitious material and basalt powder by powder technology]. Revista UNICREA 2(1), 199–223. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/download/56/67/74",
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "title-translation": "Obtaining pressed roof tiles from cementitious material and basalt powder by powder technology",
+      "URL": "https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/download/56/67/74",
+      "container-title": "Revista UNICREA",
+      "volume": "2",
+      "issue": "1",
+      "page": "199–223"
+    },
+    {
+      "id": "f170_ref_074",
+      "type": "article-journal",
+      "title": "Estudo exploratório para ativação alcalina de pó basáltico como uma matriz cimentícia suplementar",
+      "author": [
+        {
+          "family": "Gheller",
+          "given": "R."
+        },
+        {
+          "family": "Silva",
+          "given": "L. L."
+        },
+        {
+          "family": "Fiori",
+          "given": "M. A."
+        },
+        {
+          "family": "Batiston",
+          "given": "E. R."
+        }
+      ],
+      "note": "Revista IBRACON de Estruturas e Materiais 15(4), e15405. DOI: 10.1590/S1983-41952022000400005 https://www.scielo.br/j/riem/a/r4WW5dZMhHDgfnL6ZXFLsnN",
+      "citation-number": 74,
+      "original-reference": "[74] Gheller, R.; Silva, L. L.; Fiori, M. A.; Batiston, E. R. (2022). Estudo exploratório para ativação alcalina de pó basáltico como uma matriz cimentícia suplementar [Exploratory study for the alkaline activation of basalt powder as a supplementary cementitious matrix]. Revista IBRACON de Estruturas e Materiais 15(4), e15405. DOI: 10.1590/S1983-41952022000400005 https://www.scielo.br/j/riem/a/r4WW5dZMhHDgfnL6ZXFLsnN",
+      "issued": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "title-translation": "Exploratory study for the alkaline activation of basalt powder as a supplementary cementitious matrix",
+      "DOI": "10.1590/S1983-41952022000400005",
+      "URL": "https://www.scielo.br/j/riem/a/r4WW5dZMhHDgfnL6ZXFLsnN",
+      "container-title": "Revista IBRACON de Estruturas e Materiais",
+      "volume": "15",
+      "issue": "4",
+      "article-locator": "e15405"
+    },
+    {
+      "id": "f170_ref_075",
+      "type": "patent",
+      "title": "Einrichtung sowie Ladesystem und Verfahren zur induktiven Ladung einer Batterie eines elektrisch betreibbaren Kraftfahrzeugs",
+      "author": [
+        {
+          "family": "Thiele",
+          "given": "D."
+        },
+        {
+          "family": "Pohl",
+          "given": "J."
+        },
+        {
+          "family": "Diler",
+          "given": "S."
+        }
+      ],
+      "note": "DE102019128278A1, published 22 April 2021. Patent disclosure; concrete-cover formulations include basalt flour. https://patents.google.com/patent/DE102019128278A1/de Source date qualifiers: 2021; priority 21 October 2019.",
+      "citation-number": 75,
+      "original-reference": "[75] Thiele, D.; Pohl, J.; Diler, S. (inventors) (2021; priority 21 October 2019). Einrichtung sowie Ladesystem und Verfahren zur induktiven Ladung einer Batterie eines elektrisch betreibbaren Kraftfahrzeugs [Device, charging system and method for inductive charging of an electrically operated vehicle battery]. DE102019128278A1, published 22 April 2021. Patent disclosure; concrete-cover formulations include basalt flour. https://patents.google.com/patent/DE102019128278A1/de",
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            22
+          ]
+        ]
+      },
+      "title-translation": "Device, charging system and method for inductive charging of an electrically operated vehicle battery",
+      "URL": "https://patents.google.com/patent/DE102019128278A1/de",
+      "number": "DE102019128278A1"
+    },
+    {
+      "id": "f170_ref_076",
+      "type": "patent",
+      "title": "콘크리트 구조물의 보수재 조성물 및 콘크리트 구조물의 보수공법",
+      "author": [
+        {
+          "literal": "김명덕"
+        }
+      ],
+      "note": "KR20230010605A and KR20230010606A, both published 19 January 2023; divisional applications KR1020220152881A and KR1020220152883A from KR1020210088715A. https://patents.google.com/patent/KR20230010605A/ko ; https://patents.google.com/patent/KR20230010606A/ko Source date qualifiers: 2023; parent application priority 6 July 2021.",
+      "citation-number": 76,
+      "original-reference": "[76] 김명덕 (inventor) (2023; parent application priority 6 July 2021). 콘크리트 구조물의 보수재 조성물 및 콘크리트 구조물의 보수공법 [Repair composition for concrete structures and repairing method]. KR20230010605A and KR20230010606A, both published 19 January 2023; divisional applications KR1020220152881A and KR1020220152883A from KR1020210088715A. https://patents.google.com/patent/KR20230010605A/ko ; https://patents.google.com/patent/KR20230010606A/ko",
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            19
+          ]
+        ]
+      },
+      "title-translation": "Repair composition for concrete structures and repairing method",
+      "URL": "https://patents.google.com/patent/KR20230010605A/ko",
+      "number": "KR20230010605A"
+    },
+    {
+      "id": "f170_ref_077",
+      "type": "patent",
+      "title": "用玄武岩微粉-矿渣微粉-石灰石粉作掺合料制备混凝土的方法",
+      "author": [
+        {
+          "literal": "马清清"
+        },
+        {
+          "literal": "陈平"
+        },
+        {
+          "literal": "赵艳荣"
+        },
+        {
+          "literal": "刘荣进"
+        }
+      ],
+      "note": "CN102674782A, published 19 September 2012; CN102674782B, published 24 July 2013. One application family, CN201210166385. Patent disclosure. https://patents.google.com/patent/CN102674782A/zh",
+      "citation-number": 77,
+      "original-reference": "[77] 马清清; 陈平; 赵艳荣; 刘荣进 (inventors) (2012). 用玄武岩微粉-矿渣微粉-石灰石粉作掺合料制备混凝土的方法 [Method of preparing concrete using basalt, slag and limestone powders as an addition]. CN102674782A, published 19 September 2012; CN102674782B, published 24 July 2013. One application family, CN201210166385. Patent disclosure. https://patents.google.com/patent/CN102674782A/zh",
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            19
+          ]
+        ]
+      },
+      "title-translation": "Method of preparing concrete using basalt, slag and limestone powders as an addition",
+      "URL": "https://patents.google.com/patent/CN102674782A/zh",
+      "number": "CN102674782A"
+    },
+    {
+      "id": "f170_ref_078",
+      "type": "patent",
+      "title": "Béton composite",
+      "author": [
+        {
+          "family": "Clavaud",
+          "given": "B."
+        },
+        {
+          "family": "Cochet",
+          "given": "G."
+        },
+        {
+          "family": "Gnagne",
+          "given": "C."
+        },
+        {
+          "family": "Targe",
+          "given": "J.-P."
+        }
+      ],
+      "note": "EP0805788A1, published 12 November 1997. Patent disclosure, with basalt among hard aggregate choices; performance claims concern a multicomponent formulation. https://patents.google.com/patent/EP0805788A1/fr",
+      "citation-number": 78,
+      "original-reference": "[78] Clavaud, B.; Cochet, G.; Gnagne, C.; Targe, J.-P. (inventors) (1997). Béton composite [Composite concrete]. EP0805788A1, published 12 November 1997. Patent disclosure, with basalt among hard aggregate choices; performance claims concern a multicomponent formulation. https://patents.google.com/patent/EP0805788A1/fr",
+      "issued": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            12
+          ]
+        ]
+      },
+      "title-translation": "Composite concrete",
+      "URL": "https://patents.google.com/patent/EP0805788A1/fr",
+      "number": "EP0805788A1"
+    },
+    {
+      "id": "f170_ref_079",
+      "type": "patent",
+      "title": "水硬性材料およびそれを用いた補修方法",
+      "author": [
+        {
+          "literal": "荒木 昭俊"
+        },
+        {
+          "literal": "水島 一行"
+        },
+        {
+          "literal": "高木 聡史"
+        },
+        {
+          "literal": "山岸 隆典"
+        },
+        {
+          "literal": "串橋 巧"
+        }
+      ],
+      "note": "JP2007290911A, published 8 November 2007; priority 25 April 2006; related grant JP4963189B2. Patent disclosure. https://patents.google.com/patent/JP2007290911A/ja",
+      "citation-number": 79,
+      "original-reference": "[79] 荒木 昭俊; 水島 一行; 高木 聡史; 山岸 隆典; 串橋 巧 (inventors) (2007). 水硬性材料およびそれを用いた補修方法 [Hydraulic material and repair method using it]. JP2007290911A, published 8 November 2007; priority 25 April 2006; related grant JP4963189B2. Patent disclosure. https://patents.google.com/patent/JP2007290911A/ja",
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            11,
+            8
+          ]
+        ]
+      },
+      "title-translation": "Hydraulic material and repair method using it",
+      "URL": "https://patents.google.com/patent/JP2007290911A/ja",
+      "number": "JP2007290911A"
+    },
+    {
+      "id": "f170_ref_080",
+      "type": "article-journal",
+      "title": "Mechanistic–empirical porosity model for basalt powder-cement pastes under thermal load conditions",
+      "author": [
+        {
+          "family": "Rumiński",
+          "given": "P."
+        },
+        {
+          "family": "Szeląg",
+          "given": "M."
+        }
+      ],
+      "note": "Construction and Building Materials 492, 142916. DOI: 10.1016/j.conbuildmat.2025.142916 https://doi.org/10.1016/j.conbuildmat.2025.142916",
+      "citation-number": 80,
+      "original-reference": "[80] Rumiński, P.; Szeląg, M. (2025). Mechanistic–empirical porosity model for basalt powder-cement pastes under thermal load conditions. Construction and Building Materials 492, 142916. DOI: 10.1016/j.conbuildmat.2025.142916 https://doi.org/10.1016/j.conbuildmat.2025.142916",
+      "issued": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.conbuildmat.2025.142916",
+      "URL": "https://doi.org/10.1016/j.conbuildmat.2025.142916",
+      "container-title": "Construction and Building Materials",
+      "volume": "492",
+      "article-locator": "142916"
+    },
+    {
+      "id": "f170_ref_081",
+      "type": "article-journal",
+      "title": "Wytrzymałość na ściskanie i na rozciąganie betonów zwykłych i wysokowartościowych z różnymi kruszywami łamanymi",
+      "author": [
+        {
+          "family": "Piasta",
+          "given": "W. G."
+        },
+        {
+          "family": "Góra",
+          "given": "J."
+        }
+      ],
+      "note": "Cement Wapno Beton 11/73(3), 184–192. https://www.cementwapnobeton.pl/pdf-177771-98342?filename=Compressive+and+splitting.pdf",
+      "citation-number": 81,
+      "original-reference": "[81] Piasta, W. G.; Góra, J. (2006). Wytrzymałość na ściskanie i na rozciąganie betonów zwykłych i wysokowartościowych z różnymi kruszywami łamanymi [Compressive and splitting tensile strength of ordinary and high performance concretes with various crushed aggregates]. Cement Wapno Beton 11/73(3), 184–192. https://www.cementwapnobeton.pl/pdf-177771-98342?filename=Compressive+and+splitting.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2006
+          ]
+        ]
+      },
+      "title-translation": "Compressive and splitting tensile strength of ordinary and high performance concretes with various crushed aggregates",
+      "URL": "https://www.cementwapnobeton.pl/pdf-177771-98342?filename=Compressive+and+splitting.pdf",
+      "container-title": "Cement Wapno Beton",
+      "volume": "11/73",
+      "issue": "3",
+      "page": "184–192"
+    },
+    {
+      "id": "f170_ref_082",
+      "type": "article-journal",
+      "title": "Wpływ wybranych kruszyw na właściwości betonu wysokowartościowego",
+      "author": [
+        {
+          "family": "Piasta",
+          "given": "W."
+        },
+        {
+          "family": "Budzyński",
+          "given": "W."
+        },
+        {
+          "family": "Góra",
+          "given": "J."
+        }
+      ],
+      "note": "Cement Wapno Beton 20(3), 171–178. https://www.cementwapnobeton.pl/pdf-177101-97721?filename=The+effect+of+selected.pdf",
+      "citation-number": 82,
+      "original-reference": "[82] Piasta, W.; Budzyński, W.; Góra, J. (2015). Wpływ wybranych kruszyw na właściwości betonu wysokowartościowego [The effect of selected aggregates on the properties of high performance concrete]. Cement Wapno Beton 20(3), 171–178. https://www.cementwapnobeton.pl/pdf-177101-97721?filename=The+effect+of+selected.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "title-translation": "The effect of selected aggregates on the properties of high performance concrete",
+      "URL": "https://www.cementwapnobeton.pl/pdf-177101-97721?filename=The+effect+of+selected.pdf",
+      "container-title": "Cement Wapno Beton",
+      "volume": "20",
+      "issue": "3",
+      "page": "171–178"
+    },
+    {
+      "id": "f170_ref_083",
+      "type": "article-journal",
+      "title": "Pairing Chemical Activation and Carbonation of Basalt to Manufacture Novel Supplementary Cementitious Materials that Incorporate Carbon Capture",
+      "author": [
+        {
+          "family": "Hollingham",
+          "given": "M."
+        },
+        {
+          "family": "Gevaudan",
+          "given": "J. P."
+        }
+      ],
+      "note": "ACS Sustainable Chemistry & Engineering 14(24), 10880–10895. DOI: 10.1021/acssuschemeng.6c00877 https://pubs.acs.org/doi/10.1021/acssuschemeng.6c00877",
+      "citation-number": 83,
+      "original-reference": "[83] Hollingham, M.; Gevaudan, J. P. (2026). Pairing Chemical Activation and Carbonation of Basalt to Manufacture Novel Supplementary Cementitious Materials that Incorporate Carbon Capture. ACS Sustainable Chemistry & Engineering 14(24), 10880–10895. DOI: 10.1021/acssuschemeng.6c00877 https://pubs.acs.org/doi/10.1021/acssuschemeng.6c00877",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "DOI": "10.1021/acssuschemeng.6c00877",
+      "URL": "https://pubs.acs.org/doi/10.1021/acssuschemeng.6c00877",
+      "container-title": "ACS Sustainable Chemistry & Engineering",
+      "volume": "14",
+      "issue": "24",
+      "page": "10880–10895"
+    },
+    {
+      "id": "f170_ref_084",
+      "type": "webpage",
+      "title": "低热、低品位石灰石烧制高强度熟料的工艺方案",
+      "author": [
+        {
+          "literal": "水泥网"
+        }
+      ],
+      "note": "16 August 2006. Technical trade account concerning Hainan Danzhou Baoqiang; attributed to 数字水泥 [Digital Cement]. https://www.ccement.com/news/content/700998.html",
+      "citation-number": 84,
+      "original-reference": "[84] 水泥网 [Ccement] (2006). 低热、低品位石灰石烧制高强度熟料的工艺方案 [Process scheme for firing high-strength clinker with low-heat-value fuel and low-grade limestone]. 16 August 2006. Technical trade account concerning Hainan Danzhou Baoqiang; attributed to 数字水泥 [Digital Cement]. https://www.ccement.com/news/content/700998.html",
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            8,
+            16
+          ]
+        ]
+      },
+      "title-translation": "Process scheme for firing high-strength clinker with low-heat-value fuel and low-grade limestone",
+      "URL": "https://www.ccement.com/news/content/700998.html"
+    },
+    {
+      "id": "f170_ref_085",
+      "type": "thesis",
+      "title": "Investigação micro e macroestrutural de argamassas submetidas a elevadas temperaturas",
+      "author": [
+        {
+          "family": "Alves",
+          "given": "G. P."
+        }
+      ],
+      "note": "Master's dissertation, Universidade Estadual de Londrina; defended 3 December 2018. Especially Table 3.4 and Chapters 4–5. https://repositorio.uel.br/srv-c0003-s01/api/core/bitstreams/9676213f-2111-492e-9ef4-58915204c04d/content",
+      "citation-number": 85,
+      "original-reference": "[85] Alves, G. P. (2018). Investigação micro e macroestrutural de argamassas submetidas a elevadas temperaturas [Micro- and macrostructural investigation of mortars subjected to elevated temperatures]. Master's dissertation, Universidade Estadual de Londrina; defended 3 December 2018. Especially Table 3.4 and Chapters 4–5. https://repositorio.uel.br/srv-c0003-s01/api/core/bitstreams/9676213f-2111-492e-9ef4-58915204c04d/content",
+      "issued": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "title-translation": "Micro- and macrostructural investigation of mortars subjected to elevated temperatures",
+      "URL": "https://repositorio.uel.br/srv-c0003-s01/api/core/bitstreams/9676213f-2111-492e-9ef4-58915204c04d/content"
+    },
+    {
+      "id": "f170_ref_086",
+      "type": "webpage",
+      "title": "Pozzolan: definition and topic overview",
+      "author": [
+        {
+          "literal": "American Concrete Institute"
+        }
+      ],
+      "note": "ACI Concrete Terminology, public topic page. https://www.concrete.org/topicsinconcrete/topicdetail.aspx?search=pozzolan",
+      "citation-number": 86,
+      "original-reference": "[86] American Concrete Institute (n.d.). Pozzolan: definition and topic overview. ACI Concrete Terminology, public topic page. https://www.concrete.org/topicsinconcrete/topicdetail.aspx?search=pozzolan",
+      "URL": "https://www.concrete.org/topicsinconcrete/topicdetail.aspx?search=pozzolan"
+    },
+    {
+      "id": "f170_ref_087",
+      "type": "webpage",
+      "title": "Magmatite – Vulkanische Lockergesteine",
+      "author": [
+        {
+          "literal": "Staatliche Geologische Dienste Deutschlands / Bundesanstalt für Geowissenschaften und Rohstoffe"
+        }
+      ],
+      "note": "Bodenschätze der Bundesrepublik Deutschland, public raw-material portal. https://rohstoffportal-sgd.bgr.de/magmatite_vulk_lockergesteine.shtml",
+      "citation-number": 87,
+      "original-reference": "[87] Staatliche Geologische Dienste Deutschlands / Bundesanstalt für Geowissenschaften und Rohstoffe (n.d.). Magmatite – Vulkanische Lockergesteine [Igneous rocks – unconsolidated volcanic materials]. Bodenschätze der Bundesrepublik Deutschland, public raw-material portal. https://rohstoffportal-sgd.bgr.de/magmatite_vulk_lockergesteine.shtml",
+      "title-translation": "Igneous rocks – unconsolidated volcanic materials",
+      "URL": "https://rohstoffportal-sgd.bgr.de/magmatite_vulk_lockergesteine.shtml"
+    },
+    {
+      "id": "f170_ref_088",
+      "type": "article-journal",
+      "title": "Wpływ wybranych dodatków mineralnych na właściwości reologiczne zaczynów cementowych",
+      "author": [
+        {
+          "family": "Szaj",
+          "given": "P."
+        }
+      ],
+      "note": "Prace Naukowe Instytutu Górnictwa Politechniki Wrocławskiej, Studia i Materiały 134(41), 285–294; publisher archive: Mining Science. https://www.miningscience.pwr.edu.pl/pdf-59897-3256?filename=Effect-of-some-mineral-su.pdf",
+      "citation-number": 88,
+      "original-reference": "[88] Szaj, P. (2012). Wpływ wybranych dodatków mineralnych na właściwości reologiczne zaczynów cementowych [Effect of some mineral supplements on rheological properties of cement slurries]. Prace Naukowe Instytutu Górnictwa Politechniki Wrocławskiej, Studia i Materiały 134(41), 285–294; publisher archive: Mining Science. https://www.miningscience.pwr.edu.pl/pdf-59897-3256?filename=Effect-of-some-mineral-su.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "title-translation": "Effect of some mineral supplements on rheological properties of cement slurries",
+      "URL": "https://www.miningscience.pwr.edu.pl/pdf-59897-3256?filename=Effect-of-some-mineral-su.pdf",
+      "container-title": "Prace Naukowe Instytutu Górnictwa Politechniki Wrocławskiej, Studia i Materiały",
+      "volume": "134",
+      "issue": "41",
+      "page": "285–294"
+    },
+    {
+      "id": "f170_ref_089",
+      "type": "thesis",
+      "title": "Análisis de las propiedades físicos-mecánicas de adoquines con adición de fibras de basalto destinados al tránsito ligero",
+      "author": [
+        {
+          "family": "Cienfuegos Cabanillas",
+          "given": "L. Y."
+        }
+      ],
+      "note": "Civil-engineering degree thesis, Universidad Católica Santo Toribio de Mogrovejo, Chiclayo. https://repositorio.usat.edu.pe/server/api/core/bitstreams/fbd7e968-17ed-4a19-8951-e63bd0d48a86/content",
+      "citation-number": 89,
+      "original-reference": "[89] Cienfuegos Cabanillas, L. Y. (2026). Análisis de las propiedades físicos-mecánicas de adoquines con adición de fibras de basalto destinados al tránsito ligero [Analysis of the physical–mechanical properties of paving blocks with basalt fibers for light traffic]. Civil-engineering degree thesis, Universidad Católica Santo Toribio de Mogrovejo, Chiclayo. https://repositorio.usat.edu.pe/server/api/core/bitstreams/fbd7e968-17ed-4a19-8951-e63bd0d48a86/content",
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "title-translation": "Analysis of the physical–mechanical properties of paving blocks with basalt fibers for light traffic",
+      "URL": "https://repositorio.usat.edu.pe/server/api/core/bitstreams/fbd7e968-17ed-4a19-8951-e63bd0d48a86/content"
+    },
+    {
+      "id": "f170_ref_090",
+      "type": "article-journal",
+      "title": "Испытание на прочность бетонных смесей с добавлением суперпластификаторов и базальтовой фибры",
+      "author": [
+        {
+          "family": "Исмаилов",
+          "given": "Ф. С."
+        },
+        {
+          "family": "Каримов",
+          "given": "М."
+        },
+        {
+          "family": "Джалилов",
+          "given": "А. Т."
+        },
+        {
+          "family": "Исмаилова",
+          "given": "Х. Д."
+        },
+        {
+          "family": "Ахмедов",
+          "given": "С. И."
+        }
+      ],
+      "note": "Universum: технические науки 10(127), 16–18. https://7universum.com/ru/tech/archive/item/18395",
+      "citation-number": 90,
+      "original-reference": "[90] Исмаилов, Ф. С.; Каримов, М.; Джалилов, А. Т.; Исмаилова, Х. Д.; Ахмедов, С. И. (2024). Испытание на прочность бетонных смесей с добавлением суперпластификаторов и базальтовой фибры [Strength test of concrete mixtures with the addition of superplasticizers and basalt fibre]. Universum: технические науки 10(127), 16–18. https://7universum.com/ru/tech/archive/item/18395",
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "title-translation": "Strength test of concrete mixtures with the addition of superplasticizers and basalt fibre",
+      "URL": "https://7universum.com/ru/tech/archive/item/18395",
+      "container-title": "Universum: технические науки",
+      "issue": "10 (127)",
+      "page": "16–18"
+    },
+    {
+      "id": "f170_ref_091",
+      "type": "article-journal",
+      "title": "Базальтофибробетон с улучшенными физико-механическими и эксплуатационными свойствами с применением нанодисперсных модификаторов",
+      "author": [
+        {
+          "family": "Урханова",
+          "given": "Л. А."
+        },
+        {
+          "family": "Лхасаранов",
+          "given": "С. А."
+        },
+        {
+          "family": "Розина",
+          "given": "В. Е."
+        },
+        {
+          "family": "Буянтуев",
+          "given": "С. Л."
+        },
+        {
+          "family": "Бардаханов",
+          "given": "С. П."
+        }
+      ],
+      "note": "Вестник Иркутского государственного технического университета 11(94), 175–180. https://journals.istu.edu/vestnik_irgtu/journals/2014/11/articles/31?view=0",
+      "citation-number": 91,
+      "original-reference": "[91] Урханова, Л. А.; Лхасаранов, С. А.; Розина, В. Е.; Буянтуев, С. Л.; Бардаханов, С. П. (2014). Базальтофибробетон с улучшенными физико-механическими и эксплуатационными свойствами с применением нанодисперсных модификаторов [Basalt fiber reinforced concrete with improved physico-mechanical and performance properties using nanodispersed modifiers]. Вестник Иркутского государственного технического университета 11(94), 175–180. https://journals.istu.edu/vestnik_irgtu/journals/2014/11/articles/31?view=0",
+      "issued": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "title-translation": "Basalt fiber reinforced concrete with improved physico-mechanical and performance properties using nanodispersed modifiers",
+      "URL": "https://journals.istu.edu/vestnik_irgtu/journals/2014/11/articles/31?view=0",
+      "container-title": "Вестник Иркутского государственного технического университета",
+      "issue": "11 (94)",
+      "page": "175–180"
+    },
+    {
+      "id": "f170_ref_092",
+      "type": "patent",
+      "title": "Procédé de renforcement sur site d'un élément de construction et élément de construction renforcé",
+      "author": [
+        {
+          "family": "Menard",
+          "given": "M. H."
+        }
+      ],
+      "note": "Inventor: Menard, M. H.; applicant: M. Lefevre SA. FR2892440A1, published 27 April 2007. Patent disclosure. https://patents.google.com/patent/FR2892440A1/fr Source date qualifiers: 2007; filed 25 October 2005.",
+      "citation-number": 92,
+      "original-reference": "[92] Menard, M. H. (inventor); M. Lefevre SA (applicant) (2007; filed 25 October 2005). Procédé de renforcement sur site d'un élément de construction et élément de construction renforcé [Method of reinforcing an existing construction element in situ, and reinforced construction element]. FR2892440A1, published 27 April 2007. Patent disclosure. https://patents.google.com/patent/FR2892440A1/fr",
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            4,
+            27
+          ]
+        ]
+      },
+      "title-translation": "Method of reinforcing an existing construction element in situ, and reinforced construction element",
+      "URL": "https://patents.google.com/patent/FR2892440A1/fr",
+      "applicant": [
+        {
+          "literal": "M. Lefevre SA"
+        }
+      ],
+      "number": "FR2892440A1"
+    },
+    {
+      "id": "f170_ref_093",
+      "type": "article-journal",
+      "title": "Placas de cimento prensado contendo basalto para sistemas construtivos: caracterização tecnológica e toxicológica",
+      "author": [
+        {
+          "family": "Silva",
+          "given": "K. R. da"
+        },
+        {
+          "family": "Jesus",
+          "given": "F. B. T. de"
+        },
+        {
+          "family": "Inocente",
+          "given": "J. M."
+        },
+        {
+          "family": "Arcaro",
+          "given": "S."
+        },
+        {
+          "family": "Raupp-Pereira",
+          "given": "F."
+        },
+        {
+          "family": "Montedo",
+          "given": "O. R. K."
+        }
+      ],
+      "note": "Revista UNICREA 1(2), 223–251. Published online 22 September 2023; issue labeled May–August 2023. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/view/33",
+      "citation-number": 93,
+      "original-reference": "[93] Silva, K. R. da; Jesus, F. B. T. de; Inocente, J. M.; Arcaro, S.; Raupp-Pereira, F.; Montedo, O. R. K. (2023). Placas de cimento prensado contendo basalto para sistemas construtivos: caracterização tecnológica e toxicológica [Basalt-containing pressed cement plates for construction systems: technological and toxicological characterization]. Revista UNICREA 1(2), 223–251. Published online 22 September 2023; issue labeled May–August 2023. https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/view/33",
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            22
+          ]
+        ]
+      },
+      "title-translation": "Basalt-containing pressed cement plates for construction systems: technological and toxicological characterization",
+      "URL": "https://revistaunicrea.crea-sc.org.br/index.php/revistaunicrea/article/view/33",
+      "available-date": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            22
+          ]
+        ]
+      },
+      "container-title": "Revista UNICREA",
+      "volume": "1",
+      "issue": "2",
+      "page": "223–251"
+    },
+    {
+      "id": "f170_ref_094",
+      "type": "article-journal",
+      "title": "抗冲刷磨蚀混凝土的耐磨损试验研究",
+      "author": [
+        {
+          "literal": "刘卫东"
+        },
+        {
+          "literal": "林瑜"
+        },
+        {
+          "literal": "钟海荣"
+        },
+        {
+          "literal": "苏海华"
+        }
+      ],
+      "note": "工程力学 [Engineering Mechanics] 28(Suppl. II), 157–160; references continued on p. 165. https://engineeringmechanics.cn/cn/article/pdf/preview/5424.pdf",
+      "citation-number": 94,
+      "original-reference": "[94] 刘卫东; 林瑜; 钟海荣; 苏海华 (2011). 抗冲刷磨蚀混凝土的耐磨损试验研究 [Anti-abrasion test of erosion and denudation resistant concrete]. 工程力学 [Engineering Mechanics] 28(Suppl. II), 157–160; references continued on p. 165. https://engineeringmechanics.cn/cn/article/pdf/preview/5424.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "title-translation": "Anti-abrasion test of erosion and denudation resistant concrete",
+      "URL": "https://engineeringmechanics.cn/cn/article/pdf/preview/5424.pdf",
+      "container-title": "工程力学 [Engineering Mechanics]",
+      "volume": "28",
+      "issue": "Suppl. II",
+      "page": "157–160"
+    },
+    {
+      "id": "f170_ref_095",
+      "type": "article-journal",
+      "title": "人工骨料耐磨性及混凝土抗冲耐磨性能试验研究——以溪洛渡水电站为例",
+      "author": [
+        {
+          "literal": "李光伟"
+        },
+        {
+          "literal": "杨元慧"
+        }
+      ],
+      "note": "水利水电科技进展 [Advances in Science and Technology of Water Resources] 21(1), 27–30; references continued on p. 68. https://jour.hhu.edu.cn/slsdkjjz/article/pdf/jz20010108",
+      "citation-number": 95,
+      "original-reference": "[95] 李光伟 [Li, G.]; 杨元慧 [Yang, Y.] (2001). 人工骨料耐磨性及混凝土抗冲耐磨性能试验研究——以溪洛渡水电站为例 [Experimental study of manufactured-aggregate wear resistance and concrete abrasion resistance: the Xiluodu Hydropower Station case]. 水利水电科技进展 [Advances in Science and Technology of Water Resources] 21(1), 27–30; references continued on p. 68. https://jour.hhu.edu.cn/slsdkjjz/article/pdf/jz20010108",
+      "issued": {
+        "date-parts": [
+          [
+            2001
+          ]
+        ]
+      },
+      "title-translation": "Experimental study of manufactured-aggregate wear resistance and concrete abrasion resistance: the Xiluodu Hydropower Station case",
+      "URL": "https://jour.hhu.edu.cn/slsdkjjz/article/pdf/jz20010108",
+      "container-title": "水利水电科技进展 [Advances in Science and Technology of Water Resources]",
+      "volume": "21",
+      "issue": "1",
+      "page": "27–30"
+    },
+    {
+      "id": "f170_ref_096",
+      "type": "article-journal",
+      "title": "溪洛渡大坝骨料针片状含量控制研究与生产实践",
+      "author": [
+        {
+          "literal": "朱辉煌"
+        },
+        {
+          "literal": "张静"
+        }
+      ],
+      "note": "人民长江 [Yangtze River] 42(24), 34–37. https://www.rmcjzz.cjw.cn/cn/article/pdf/preview/rmcj_8124.pdf",
+      "citation-number": 96,
+      "original-reference": "[96] 朱辉煌 [Zhu, H.]; 张静 [Zhang, J.] (2011). 溪洛渡大坝骨料针片状含量控制研究与生产实践 [Research on control of content of flake-like particles in aggregate of Xiluodu Dam and its production practice]. 人民长江 [Yangtze River] 42(24), 34–37. https://www.rmcjzz.cjw.cn/cn/article/pdf/preview/rmcj_8124.pdf",
+      "issued": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "title-translation": "Research on control of content of flake-like particles in aggregate of Xiluodu Dam and its production practice",
+      "URL": "https://www.rmcjzz.cjw.cn/cn/article/pdf/preview/rmcj_8124.pdf",
+      "container-title": "人民长江 [Yangtze River]",
+      "volume": "42",
+      "issue": "24",
+      "page": "34–37"
+    },
+    {
+      "id": "f170_ref_097",
+      "type": "article-journal",
+      "title": "采用玄武岩为混合材试生产32.5级硅酸盐水泥",
+      "author": [
+        {
+          "literal": "张启中"
+        }
+      ],
+      "note": "水泥技术 [Cement Technology] (1), 82–84. https://www.cemteck.com/CN/Y2006/V1/I1/82",
+      "citation-number": 97,
+      "original-reference": "[97] 张启中 [Zhang, Q.] (2006). 采用玄武岩为混合材试生产32.5级硅酸盐水泥 [Trial production of grade 32.5 Portland cement using basalt as an addition]. 水泥技术 [Cement Technology] (1), 82–84. https://www.cemteck.com/CN/Y2006/V1/I1/82",
+      "issued": {
+        "date-parts": [
+          [
+            2006
+          ]
+        ]
+      },
+      "title-translation": "Trial production of grade 32.5 Portland cement using basalt as an addition",
+      "URL": "https://www.cemteck.com/CN/Y2006/V1/I1/82",
+      "container-title": "水泥技术 [Cement Technology]",
+      "issue": "1",
+      "page": "82–84"
+    },
+    {
+      "id": "f170_ref_098",
+      "type": "article-journal",
+      "title": "粉磨方式对玄武岩作水泥混合材性能的影响",
+      "author": [
+        {
+          "literal": "刘来宝"
+        },
+        {
+          "literal": "唐凯靖"
+        },
+        {
+          "literal": "张礼华"
+        }
+      ],
+      "note": "水泥 [Cement] (9), 7–11. Cited in 中国粉体技术 [China Powder Science and Technology] 22(6) (2016), p. 94, reference 11. https://www.sciengine.com/doi/pdf/2185B44E024D4FE497D19F88541380F6",
+      "citation-number": 98,
+      "original-reference": "[98] 刘来宝; 唐凯靖; 张礼华; 等 [Liu, L.; Tang, K.; Zhang, L.; et al.] (2013). 粉磨方式对玄武岩作水泥混合材性能的影响 [Effect of grinding method on the performance of basalt as a cement addition]. 水泥 [Cement] (9), 7–11. Cited in 中国粉体技术 [China Powder Science and Technology] 22(6) (2016), p. 94, reference 11. https://www.sciengine.com/doi/pdf/2185B44E024D4FE497D19F88541380F6",
+      "issued": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "title-translation": "Effect of grinding method on the performance of basalt as a cement addition",
+      "container-title": "水泥 [Cement]",
+      "author-list-complete": false,
+      "issue": "9",
+      "page": "7–11"
+    },
+    {
+      "id": "f170_ref_043_b",
+      "type": "patent",
+      "title": "一种掺合料及由其制备的混凝土",
+      "author": [
+        {
+          "literal": "谭云松"
+        },
+        {
+          "literal": "张凡"
+        }
+      ],
+      "note": "CN104844111A (19 August 2015) / CN104844111B (24 August 2016). One patent family. https://patents.google.com/patent/CN104844111B/zh Source date qualifiers: 2015/2016.",
+      "citation-number": 43,
+      "original-reference": "[43] 谭云松; 张凡 (inventors) (2015/2016). 一种掺合料及其制备方法及由其制备的混凝土 [Admixture, preparation method and concrete made from it] / 一种掺合料及由其制备的混凝土 [Admixture and concrete made from it]. CN104844111A (19 August 2015) / CN104844111B (24 August 2016). One patent family. https://patents.google.com/patent/CN104844111B/zh",
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            24
+          ]
+        ]
+      },
+      "title-translation": "Admixture and concrete made from it",
+      "URL": "https://patents.google.com/patent/CN104844111B/zh",
+      "number": "CN104844111B"
+    },
+    {
+      "id": "f170_ref_076_b",
+      "type": "patent",
+      "title": "콘크리트 구조물의 보수재 조성물 및 콘크리트 구조물의 보수공법",
+      "author": [
+        {
+          "literal": "김명덕"
+        }
+      ],
+      "note": "KR20230010605A and KR20230010606A, both published 19 January 2023; divisional applications KR1020220152881A and KR1020220152883A from KR1020210088715A. https://patents.google.com/patent/KR20230010605A/ko ; https://patents.google.com/patent/KR20230010606A/ko Source date qualifiers: 2023; parent application priority 6 July 2021.",
+      "citation-number": 76,
+      "original-reference": "[76] 김명덕 (inventor) (2023; parent application priority 6 July 2021). 콘크리트 구조물의 보수재 조성물 및 콘크리트 구조물의 보수공법 [Repair composition for concrete structures and repairing method]. KR20230010605A and KR20230010606A, both published 19 January 2023; divisional applications KR1020220152881A and KR1020220152883A from KR1020210088715A. https://patents.google.com/patent/KR20230010605A/ko ; https://patents.google.com/patent/KR20230010606A/ko",
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            19
+          ]
+        ]
+      },
+      "title-translation": "Repair composition for concrete structures and repairing method",
+      "URL": "https://patents.google.com/patent/KR20230010606A/ko",
+      "number": "KR20230010606A"
+    }
+  ],
+  "unresolved_objects": [
+    {
+      "id": "f170_ref_098_witness",
+      "type": "article-journal",
+      "container-title": "中国粉体技术",
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "volume": "22",
+      "issue": "6",
+      "page": "94",
+      "URL": "https://www.sciengine.com/doi/pdf/2185B44E024D4FE497D19F88541380F6",
+      "note": "Bibliographic witness, reference 11 on p. 94; article title and authors are unresolved. This record is distinct from the cited 2013 work.",
+      "title-unresolved": true
+    }
+  ],
+  "exceptions": {
+    "composite_slots": [
+      43,
+      76
+    ],
+    "secondary_witness_slot": 98,
+    "unresolved_witness_fields": [
+      "f170_ref_098_witness.title",
+      "f170_ref_098_witness.author"
+    ],
+    "incomplete_author_list": [
+      "f170_ref_098"
+    ],
+    "source_author_order_exception": [
+      19
+    ],
+    "description": "Exact formal slot strings remain independently recoverable. The unidentified witness remains a supporting unresolved object, not an invented bibliographic work or the URL of the 2013 work."
+  }
+}

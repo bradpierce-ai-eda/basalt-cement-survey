@@ -1,0 +1,24 @@
+{
+  "source_publication": "https://zenodo.org/records/23489459",
+  "preferred_version_doi": "10.5281/zenodo.23489459",
+  "concept_doi": "10.5281/zenodo.23489458",
+  "publication_date": "2026-10-20",
+  "printed_manuscript_date": "2026-10-19",
+  "source_filename": "basalt-cement-survey.pdf",
+  "source_bytes": 1152985,
+  "source_sha256": "d48f566893a941cd4ca474d33b5160eb43fe275b11527db024ee45f3db0a3294",
+  "canonical_blocks_sha256": "07d2366bae5a0bf9b53acf56b1c9eeb890763ec3df065ceef95f1b7f45a2600c",
+  "transformation": "Complete editable release-source block mapping to static HTML and Markdown, matched against immutable deposited PDF; frozen bibliography normalization reused without changing published reference strings.",
+  "manual_text_corrections": [],
+  "derivative_generated_at_utc": "2026-10-20T06:55:26.480638+00:00",
+  "tools": {
+    "python": "3.12.14",
+    "beautifulsoup4": "4.15.0",
+    "python-docx": "1.2.0",
+    "PyMuPDF": "1.28.2",
+    "Citation.js": "0.9.0"
+  },
+  "validation_status": "Reproducible validator accompanies this derivative; release-specific validation receipts are maintained in the canonical private workspace.",
+  "publication_of_record": "Zenodo",
+  "representation_only": true
+}
